@@ -52,16 +52,16 @@ Here are some key Azure services and tools that could be used:
 ##UI - Design
 ### Mobile App
 #### Landing
-![Landing1](assets/Picture1.png)
-![Landing2](assets/Picture2.png)
-![Landing3](assets/Picture3.png)
+<img src = "assets/Picture1.png" width = "200">
+<img src = "assets/Picture2.png" width = "200">
+<img src = "assets/Picture3.png" width = "200">
 
 #### Other Responses
-![R1](assets/Picture4.png)
-![R5](assets/Picture5.png)
+<img src = "assets/Picture4.png" width = "200">
+<img src = "assets/Picture5.png" width = "200">
 
 #### Web UI
-![Web](assets/Picture6.png)
+![Web](assets/Picture6.jpg)
 
 
 ## Approach
