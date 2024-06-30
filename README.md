@@ -13,7 +13,7 @@ By solving this problem statement, we address key challenges faced by businesses
 - **Real-World Impact**
 
 
-##Architecture
+## Architecture
 ![Architecture](assets/Picture8.png)
 
 
@@ -22,7 +22,8 @@ By solving this problem statement, we address key challenges faced by businesses
 
 
 
-##LLM Architecture
+## LLM Architecture
+![LLM Architecture](assets/Picture7.png)
 
 ## What are the alternatives/competitive products for the problem you are solving?
 
@@ -49,7 +50,18 @@ Here are some key Azure services and tools that could be used:
 - **Azure Monitor**: Provides comprehensive monitoring of applications and infrastructure across Azure and on-premises environments.
 
 ##UI - Design
+### Mobile App
+#### Landing
+![Landing1](assets/Picture1.png)
+![Landing2](assets/Picture2.png)
+![Landing3](assets/Picture3.png)
 
+#### Other Responses
+![R1](assets/Picture4.png)
+![R5](assets/Picture5.png)
+
+#### Web UI
+![Web](assets/Picture6.png)
 
 
 ## Approach
