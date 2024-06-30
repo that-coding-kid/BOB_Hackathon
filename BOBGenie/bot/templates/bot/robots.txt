@@ -1,0 +1,20 @@
+User-agent: *
+Disallow: /download-forms/
+Disallow: /human-resources/
+Disallow: /financial-reports/
+Disallow: /writereaddata/Images/pdf/RekhaS-15-12-20.pdf
+Disallow: /writereaddata/Images/pdf/NeelamD-15-12-20.pdf
+Disallow: /writereaddata/Images/pdf/SoundaraK-15-12-20.pdf
+Disallow: /writereaddata/Images/pdf/RCAgrawal-15-12-20.pdf
+Disallow: /writereaddata/Images/pdf/NitishGupta-15-12-20.pdf
+Disallow: /writereaddata/Images/pdf/Website-Update20-03-21.pdf
+Disallow: /writereaddata/images/pdf/baroda-rewardz-app-faq.pdf
+Disallow: /writereaddata/images/pdf/GRP-18-21-Eng-10-06-2019.pdf
+Disallow: /writereaddata/images/pdf/grp-2017-approved-by-board-eng.pdf
+Disallow: /writereaddata/Portal/images/pdf/policy-documents/Cusotmer_Right_Policy_Eng.pdf
+Disallow: /-/media/Project/BOB/CountryWebsites/India/Career/noteapproval-wms-10-vacancies-08-24.pdf
+Disallow: /shareholders-corner/shareholders-meeting-agm-egm/egm-for-election-of-shareholder-director-2020
+
+Sitemap: https://www.bankofbaroda.in/sitemap.xml
+Sitemap: https://www.bankofbaroda.in/-/media/project/bob/countrywebsites/india/atms/sitemap.xml
+Sitemap: https://www.bankofbaroda.in/-/media/project/bob/countrywebsites/india/branches/sitemap.xml

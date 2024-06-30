@@ -1,0 +1,2861 @@
+
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+<head>
+<link href="/-/media/themes/bob/india/india/start-up-banking/styles/bootstrap-min-v2.css" rel="stylesheet" /><link href="/-/media/themes/bob/india/india/start-up-banking/styles/slick-v1.css" rel="stylesheet" /><link href="/-/media/themes/bob/india/india/start-up-banking/styles/slick-theme-v1.css" rel="stylesheet" /><link href="/-/media/themes/bob/india/india/start-up-banking/styles/jquery-mCustomScrollbar-min-v1.css" rel="stylesheet" /><link href="/-/media/themes/bob/india/india/start-up-banking/styles/reset-v1.css" rel="stylesheet" /><link href="/-/media/themes/bob/india/india/start-up-banking/styles/style-v53.css" rel="stylesheet" /><link href="/-/media/themes/bob/india/india/start-up-banking/styles/fonts-v2.css" rel="stylesheet" /><link href="/-/media/themes/bob/india/india/start-up-banking/styles/footer-v2.css" rel="stylesheet" />
+
+
+<style>
+.shrink #header .cta{
+display:none !important;
+}
+.spotlight-frm, .cta{
+display:none !important;
+}
+.top_div .inner_card .card_title ul li{
+margin-left: 15px !important;
+}
+</style>
+    
+    
+
+
+<meta charset="UTF-8"/>
+<script src="/a2hs-index.js?v=8" defer></script>
+<link rel="manifest" href="/manifest.json?v=20">
+
+
+    <title>Startup Banking: Loan for New Business | Bank of Baroda</title>
+
+
+<link rel="canonical" href="https://www.bankofbaroda.in/start-up-banking" />
+
+
+
+    <link href="/-/media/project/bob/shared/favicon/favicon.png" rel="shortcut icon" />
+
+
+
+<meta property="og:title"  content="start-up-banking" /><meta property="og:url"  content="https://www.bankofbaroda.in/start-up-banking" />
+
+
+<meta  name="description" content="Startup Banking offers financial services for start-ups & entrepreneurs to grow their business. Bank of Baroda provides startup loans, current accounts & credit cards for startups." /><meta  name="keywords" content="startup banking, business startup loan, startup current account, startup loan for new business, start up business loans, start up loans, loans for startups, start up financing" />
+
+
+<meta property="twitter:title"  content="start-up-banking" /><meta property="twitter:card"  content="summary_large_image" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+
+
+            <script type="application/ld+json"> { "@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{ "@type": "ListItem", "position": 1, "name": "Personal" , "item": "https://www.bankofbaroda.in/" }, { "@type": "ListItem", "position": 2, "name": "Kickstart your Start-Up journey with us"  }] }</script>
+
+
+
+</head>
+<body class="default-device bodyclass">
+    
+
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5CJN554"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+    
+<!-- #wrapper -->
+<div id="wrapper">
+    <!-- #header -->
+    <header>
+        <div id="header" class="">
+            
+
+
+       <ul class="lang_li"><li><b>Available In :&nbsp;
+       </b><img src="/-/media/project/bob/countrywebsites/india/icons/language-change.svg"
+
+       class="mob-lang"><ul class="up-front-lang language-switcher"><li class="active" data-value="en">English</li><li class="" data-value="hi-in">हिंदी</li></ul></li></ul><div class="icons"><ul><li><a href="javascript:"><img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/start-up-logo.png" class="img-fluid" alt=""></a></li><li><a href="https://bankofbaroda.in/"><img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/bob-logo2.svg" class="img-fluid" alt=""></a></li></ul></div><a class="btn"><span></span><span></span><span></span></a><div class="menu"><a href="#banking_solution" class="scroll-p">Banking Solutions</a><a href="#privilege_services" class="scroll-p">Privilege Services</a><a href="https://www.bankofbaroda.in/start-up-banking/start-up-branches" target="_blank">Startup Branches</a><a href="#startup_resources" class="scroll-p">StartUp Resources</a><a href="#registernow" class="cta">Register Now</a><a href="https://www.bankofbaroda.in/contact-us" class="contact-us" target="_blank"><img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/contact.svg" alt="" class="img-fluid">Contact Us </a></div>
+
+
+
+        </div>
+    </header>
+    <!-- /#header -->
+    <!-- #content -->
+    <main>
+        <div id="content" class="">
+                <div class="component promo">
+        <div class="component-content">
+<section class="spotlight-img sb-form-section">
+    <div class="spotlight-txt container">
+
+        <form class="spotlight-frm d-none d-lg-block" id="registernow" method="post">
+            <h6>Register Now</h6>
+            <span>All fields are mandatory</span>
+            <div class="first-div active display-div" id="first-div">
+			 <div class="form-group"  id="container_1">
+                    <input id="reqStartUpName" type="text" name="reqStartUpName" class="form-control" placeholder="" required="required" data-error="startup name is required.">
+                    <label for="reqStartUpName" class="placeholder-label">Startup Name</label>
+                </div>
+                
+				<div class="form-group">
+                    <select name="ddlConstitution" class="form-control" required="required" onchange="FirstFormValidate();" id="ddlConstitution" data-error="Please specify your need.">
+                        <option></option>
+                       <option value="Individual">Individual</option>
+                        <option value="Proprietorship Firm">Proprietorship Firm</option>
+                        <option value="Partnership firm">Partnership firm</option>
+						<option value="Private limited Company">Private limited Company</option>
+                    </select>
+                    <label for="Constitution" class="placeholder-label">Select Constitution</label>
+                    <small id="err_ddlConstitution" class="errorMessage" style="color:red"></small>
+                </div>
+               <div class="form-group">
+
+                    <input id="txtFirstName" type="text" name="txtFirstName" class="form-control" onchange="FirstFormValidate();" onkeypress="RemoveError()" required="required" data-error="name is required.">
+                    <label for="txtFirstName" class="placeholder-label">Name of key founder/promoter</label>
+                    <small id="err_txtFirstName" class="errorMessage" style="color:red"></small>
+                </div>
+
+                <div class="form-group">
+                    <input id="txtMobile" type="text" name="txtMobile" class="form-control" onchange="FirstFormValidate();" onkeypress="RemoveError()" required="required" data-error="mobile number is required.">
+                    <label for="txtMobile" class="placeholder-label">Mobile Number</label>
+                    <small id="err_txtMobile" class="errorMessage" style="color:red"></small>
+                </div>
+
+                <div class="form-group">
+                    <input id="txtEmail" type="text" name="txtEmail" class="form-control" onchange="FirstFormValidate();" onkeypress="RemoveError()" required="required" data-error="Email ID is required.">
+                    <label for="txtEmail" class="placeholder-label">Email ID</label>
+                    <small id="err_txtEmail" class="errorMessage" style="color:red"></small>
+                </div>
+
+                
+                <div class="form-btn">
+                    <a href="javascript:void(0);" data-next="second-div" id="nextbtn" onclick="FirstFormValidate();">Next</a>
+                    <a href="javascript:void(0);" style="display:none" data-next="second-div" id="enabled_nextbtn" class="data-click">Next</a>
+
+                </div>
+            </div>
+            <div class="second-div display-div" id="second-div">
+                <div class="form-group">
+                    <select name="ddlState" id="ddlState" title="Select State" placeholder="Select State *" onchange="RemoveError()">
+                    </select>
+                    <label for="ddlState" class="placeholder-label">Select State </label>
+                    <small id="err_ddlState" class="errorMessage" style="color:red"></small>
+                </div>
+                <div class="form-group">
+                    <select name="ddlCity" id="ddlCity" onchange="RemoveError()" title="Select City" placeholder="Select City *">
+                        <option selected="selected" value="-1">Select City *</option>
+                    </select>
+                    <label for="ddlCity" class="placeholder-label"> Select City </label>
+                    <small id="err_ddlCity" class="errorMessage" style="color:red"></small>
+                </div>
+                <div class="form-group">
+                    <select name="ddlBranch" id="ddlBranch" title="Select Branch" onchange="RemoveError()" placeholder="Select Branch *">
+                        <option selected="selected" value="-1">Select Branch *</option>
+                    </select>
+
+                    <label for="ddlBranch" class="placeholder-label"> Select Branch </label>
+                    <small id="err_ddlBranch" class="errorMessage" style="color:red"></small>
+                </div>
+
+                <div class="form-group">
+                    <select required="required" onchange="RemoveError()" name="ddlYearofOperation" id="ddlYearofOperation" title="Years of operation">
+                        <option></option>
+                        <option value="Less than 1 year">Less than 1 year</option>
+                        <option value="1 to 5 years">1 to 5 years</option>
+                        <option value="5 to 10 years">5 to 10 years</option>
+                        <option value="Above 10 years">Above 10 years</option>
+                    </select>
+                    <label for="ddlYearofOperation" class="placeholder-label">Years of operation </label>
+                    <small id="err_ddlYearofOperation" class="errorMessage" style="color:red"></small>
+                </div>
+                <div class="captchaBox">
+                    <div class="form-group">
+                        <input required="required" name="txtVericode" type="text" id="txtVericode" onchange="RemoveError()" title="Verification Code" class="formControl inputField captcha-text">
+                        <label for="txtVericode" class="placeholder-label">Verification Code </label>
+                        <small id="err_txtVericode" class="errorMessage" style="color:red"></small>
+                    </div>
+                    <div class="captchaImgBox">
+                        <div>
+                            <!-- <img id="img_captcha" src="captchagenerator.ashx" class="img-fluid">-->
+                            <img id="img_captcha" src="/handlers/bob/countrywebsites/india/captchagenerator.ashx" class="img-fluid">
+                        </div>
+                        <img id="captchaImage" title="Verification Code" class="refreshCaptcha" src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/refresh.png" alt="Verification Code">
+                    </div>
+                </div>
+                <div class="form-btn">
+                    <a href="javascript:void(0);" id="btnSubmit" onclick="SecondFormValidate();">Get Started</a>
+                    <a href="javascript:void(0);" data-next="first-div" class="data-click back-cls" onclick="hideSuccessMsg()">
+                        < Back
+                    </a>
+                </div>
+
+            </div>
+            <div class="applyonlinesuccessMsg" id="successMsg" style=" display:none">
+                <h3>
+                    <strong>
+                        Thank you !
+                    </strong>
+                    We have successfully received your application. Our executive will contact you soon.
+                </h3>
+            </div>
+
+            <input type="hidden" id="hdn_utm_source" name="hdn_utm_source" value="" />
+            <input type="hidden" id="hdn_utm_medium" name="hdn_utm_medium" value="" />
+            <input type="hidden" id="hdn_utm_campaign" name="hdn_utm_campaign" value="" />
+            <input type="hidden" id="hdn_utm_term" name="hdn_utm_term" value="" />
+            <input type="hidden" id="hdn_utm_content" name="hdn_utm_content" value="" />
+            <input type="hidden" id="spanval" name="spanval" />
+            <p>Only Private limited companies, Registered partnership firms and LLPs are eligible under bob World Startup program.</p>
+        </form>
+
+    </div>
+
+</section>        </div>
+    </div>
+
+
+<section class="spotlight-img">
+  <picture>
+      <source media="(max-width:767px)" srcset="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/spotlight-mob.png">
+      <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/spotlight.png" alt="" class="img-fluid">
+  </picture>
+  <div class="spotlight-txt container">
+      <div class="inner-div">
+          <h1>Kickstart your <br /> Start-Up journey<br /> with us</h1>
+         
+      </div>
+    
+  </div>
+
+</section>
+<section class="links">
+  <div class="services">
+      <div class="container-fluid">
+          <div class="row">
+              <div class="col-xs-6 col-lg-3 col-md-6">
+                  <div class="service_cpy">
+                      <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/icon1.svg" alt="">
+                      <h3>Dedicated StartUp Branches</h3>
+                  </div>
+              </div>
+              <div class="col-xs-6 col-lg-3 col-md-6">
+                  <div class="service_cpy">
+                      <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/icon2.svg" alt="">
+                      <h3>Customised Banking Products</h3>
+                  </div>
+              </div>
+              <div class="col-xs-6 col-lg-3 col-md-6">
+                  <div class="service_cpy">
+                      <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/icon3.svg" alt="">
+                      <h3>Dedicated Relationship Managers</h3>
+                  </div>
+              </div>
+              <div class="col-xs-6 col-lg-3 col-md-6">
+                  <div class="service_cpy">
+                      <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/icon4.svg" alt="">
+                      <h3>Services beyond banking</h3>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </div>
+</section>
+
+
+
+<section class="top_div" id="banking_solution">
+  <div class="container">
+      <div class="row">
+          <div class="col-lg-8 order-2 order-lg-1 load-more-content">
+              <div class="row">
+                  <div class="col-sm-6 load-div">
+                      <div class="inner_card">
+                          <div class="card_title">
+                              <div class="card_top">
+                                  <span><img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/corporate-salary-accounts-2.svg" alt=""></span>
+                                  <h2>Foreign Currency Current Account</h2>
+                              </div>
+                              <ul>
+                                  <li>As a customer, you can enjoy the many features of a Current account free of cost or for minimum charges.</li>
+                                  <li>You may also apply for net banking on your Current account. With Net banking you can access your bank statements and make payments directly from your account.</li>
+                                  <li>Account can be Opened and maintained in USD/ EUR/ GBP or Any other Freely Convertible Currency acceptable at IBU.</li>
+                                  <!-- <li>No QAB is applicable on Current Accounts linked with Credit facilities availed from IBU.</li> -->
+                              </ul>
+                              <!--
+                              <p>Dedicated Relationship Manager.
+                              Hand-crafted startup kit with exclusive offerings for select customers.
+                              Waiver of non-maintenance charges upto 2 years of account opening.
+                              Free NEFT/RTGS/IMPS transactions upto 2 years of account opening.
+                              Business Debit card with multiple offers.</p>
+                              -->
+                              <div class="bob-e-auction-filter-btn-div">
+                                  <!-- <a class="bob-comman-btn" href="https://ifsc.bankofbaroda.in/apply-online?id=825c0551-7fb5-4897-85ff-1b34384a33a9" target="" _blank="">Apply Now</a> -->
+                                  <a class="bob-line-arrow-orange-link share-url" href="https://ifsc.bankofbaroda.in/product-and-services/deposit-schemes/current-account">
+                                      Know More
+                                  </a>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="col-sm-6 load-div">
+                      <div class="inner_card">
+                          <div class="card_title">
+                              <div class="card_top">
+                                  <span><img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/rocket.svg" alt=""></span>
+                                  <h2>Baroda Start-Up Current Account</h2>
+                              </div>
+                              <ul>
+                                  <li>Dedicated Relationship Manager.</li>
+                                  <li>Hand-crafted startup kit with exclusive offerings for select customers.</li>
+                                  <li> Waiver of non-maintenance charges upto 2 years of account opening.</li>
+                                  <li>Free NEFT/RTGS/IMPS transactions upto 2 years of account opening.</li>
+                                  <li> Business Debit card with multiple offers.</li>
+                              </ul>
+                              <!--
+                              <p>Dedicated Relationship Manager.
+                              Hand-crafted startup kit with exclusive offerings for select customers.
+                              Waiver of non-maintenance charges upto 2 years of account opening.
+                              Free NEFT/RTGS/IMPS transactions upto 2 years of account opening.
+                              Business Debit card with multiple offers.</p>
+                              -->
+                              <div class="bob-e-auction-filter-btn-div">
+                                  <!-- <a class="bob-comman-btn" href="" target="" _blank="">Apply Now</a> -->
+                                  <a class="bob-line-arrow-orange-link share-url" href="https://www.bankofbaroda.in/business-banking/msme-banking/current-accounts/baroda-startup-current-account">
+                                      Know More
+                                  </a>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="col-sm-6 load-div">
+                      <div class="inner_card">
+                          <div class="card_title">
+                              <div class="card_top">
+                                  <span><img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/currency.svg" alt=""></span>
+                                  <h2>Baroda Scale-Up Current Account</h2>
+                              </div>
+                              <ul>
+                                  <li>Dedicated Relationship Manager.</li>
+                                  <li>Hand-crafted startup kit with exclusive offerings for select customers.</li>
+                                  <li>Waiver of non-maintenance charges upto 1 years of account opening.</li>
+                                  <li>Free NEFT/RTGS/IMPS transactions of account opening.</li>
+                                  <li>Business Debit card with multiple offers.</li>
+                              </ul>
+                              <!--
+                              <p>Dedicated Relationship Manager.
+                                  Hand-crafted startup kit with exclusive offerings for select customers.
+                                  Waiver of non-maintenance charges upto 1 years of account opening.
+                                  Free NEFT/RTGS/IMPS transactions of account opening.
+                                  Business Debit card with multiple offers.</p>
+                                  -->
+                              <div class="bob-e-auction-filter-btn-div">
+                                  <!-- <a class="bob-comman-btn" href="" target="" _blank="">Apply Now</a> -->
+                                  <a class="bob-line-arrow-orange-link share-url" href="https://www.bankofbaroda.in/business-banking/msme-banking/current-accounts/baroda-scale-up-current-account">
+                                      Know More
+                                  </a>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="col-sm-6 load-div">
+                      <div class="inner_card">
+                          <div class="card_title">
+                              <div class="card_top">
+                                  <span><img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/cards.svg" alt=""></span>
+                                  <h2>Corporate Premium Credit Card</h2>
+                              </div>
+                              <ul>
+                                  <li>Credit Card with an option to emboss corporate name on card along with cardholder’s name</li>
+                                  <li>Track expenses and stay in control with assigned individual employee spending limits</li>
+                                  <li>Earn 1 Reward Point for every Rs. 100 spent with multiple Redemption options</li>
+                                  <li>No joining fees and Guaranteed Issuance against Corporate FD</li>
+                              </ul>
+                              <!--
+                              <p>Credit Card with an option to emboss corporate name on card along with cardholder’s name
+                                  Track expenses and stay in control with assigned individual employee spending limits
+                                  Earn 1 Reward Point for every Rs. 100 spent with multiple Redemption options
+                                  No joining fees and Guaranteed Issuance against Corporate FD</p>
+                                  -->
+                              <div class="bob-e-auction-filter-btn-div">
+                                  <!-- <a class="bob-comman-btn" href="" target="" _blank="">Apply Now</a> -->
+                                  <!-- <a class="bob-line-arrow-orange-link share-url" href="">
+                                      Know More
+                                  </a> -->
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="col-sm-6 load-div">
+                      <div class="inner_card">
+                          <div class="card_title">
+                              <div class="card_top">
+                                  <span><img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/rupee.svg" alt=""></span>
+                                  <h2>Baroda Payment Gateway</h2>
+                              </div>
+                              <ul>
+                                  <li>Secure and close integration with the banking system</li>
+                                  <li>
+                                      Low transaction fees and initial investment
+                                      Affiliated to VISA/ Master Card and Net Banking
+                                  </li>
+                                  <li>Inbuilt MIS Report facility for transaction tracking</li>
+                              </ul>
+                              <!--
+                              <p>Secure and close integration with the banking system
+                                  Low transaction fees and initial investment
+                                  Affiliated to VISA/ Master Card and Net Banking
+                                  Inbuilt MIS Report facility for transaction tracking</p>
+                                  -->
+                              <div class="bob-e-auction-filter-btn-div">
+                                  <a class="bob-comman-btn" href="" target="" _blank="">Apply Now</a>
+                                  <!-- <a class="bob-line-arrow-orange-link share-url" href="">
+                                  Know More -->
+                                  </a>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+                  <!-- <div class="col-sm-6 load-div">
+                      <div class="inner_card">
+                          <div class="card_title">
+                              <div class="card_top">
+                                   <span><img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/corporate-salary-accounts-2.svg" alt=""></span>
+                                  <h2>Corporate Salary Accounts</h2>
+                              </div>
+                              <ul>
+                                  <li>4 variants of salary accounts linked to salary amount</li>
+                                  <li> No minimum criteria for number of employees in Startup</li>
+                                  <li> *Digital Personal Loan upto to Rs.50,000/- Zero Balance Salary Account  *T&amp;C apply.</li>
+                              </ul>
+                              
+                              <p>4 variants of salary accounts linked to salary amount
+                                  No minimum criteria for number of employees in Startup
+                                  *Digital Personal Loan upto to Rs.50,000/-
+                                  Zero Balance Salary Account
+                                  *T&amp;C apply.</p>
+                                  
+                              <div class="bob-e-auction-filter-btn-div">
+                                  <a class="bob-comman-btn" href="" target="" _blank="">Apply Now</a>
+                                   <a class="bob-line-arrow-orange-link share-url" href="">
+                                  Know More 
+                                  </a>
+                              </div>
+                          </div>
+                      </div>
+                  </div> -->
+                  <div class="col-sm-6 load-div">
+                      <div class="inner_card">
+                          <div class="card_title">
+                              <div class="card_top">
+                                  <span><img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/barodainsta-smarttrade-new.svg" alt=""></span>
+                                  <h2>BarodaINSTA SmartTrade</h2>
+                              </div>
+                              <ul>
+                                  <li>One point solution for forex and inland trade transactions.</li>
+                                  <li>
+                                      Paperless transactions with enhanced security.
+                                      Real time updates of transactions.
+                                  </li>
+                                  <li>    Online availability of customised MIS reports, debit advice and swift copy.</li>
+                              </ul>
+                              <!--
+                              <p>One point solution for forex and inland trade transactions.
+                              Paperless transactions with enhanced security.
+                              Real time updates of transactions.
+                              Online availability of customised MIS reports, debit advice and swift copy.
+                              </p>
+                              -->
+                              <div class="bob-e-auction-filter-btn-div">
+                                  <a class="bob-comman-btn" href="" target="" _blank="">Apply Now</a>
+                                  <!-- <a class="bob-line-arrow-orange-link share-url" href="">
+                                      Know More
+                                  </a> -->
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+              <div class="row">
+                  <div class="col-12">
+                      <div class="load-more-btn">
+                          <a href="javascript:void(0);">Load More</a>
+                      </div>
+
+                  </div>
+              </div>
+          </div>
+          <div class="col-lg-4 order-1 order-lg-2">
+              <h2>Experience our range of Banking Solutions for Start-Ups</h2>
+              <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/startups.svg" class="img-fluid" alt="">
+          </div>
+      </div>
+  </div>
+</section>
+<section class="section_3" id="privilege_services">
+  <div class="rates-and-charges">
+      <div class="blueoverlay">
+          <h2>Services Beyond Banking</h2>
+          <p>Avail following services from our partners at preferential rates</p>
+      </div>
+  </div>
+  <div class="blogbox">
+      <div class="container inner_blogbox">
+          <div class="row">
+              <div class="col-sm-12">
+                  <ul>
+                      <li>
+                          <div class="services">
+                              <a href="javascript:void(0);" class="popup-yes-no" data-desc="Coming Soon" data-btn="no">
+                                  <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/coworking_spaces.svg" alt="">
+                                  <p>Co-working Spaces</p>
+                              </a>
+                          </div>
+                      </li>
+                      <li>
+                          <div class="services">
+                              <a href="javascript:void(0);" class="cloud-sevices-popup">
+                                  <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/cloud-sevices.svg" alt="">
+                                  <p>Cloud Services</p>
+                              </a>
+                          </div>
+                      </li>
+                      <li>
+                          <div class="services">
+                              <a href="https://vakilsearch.com/bankofbaroda" class="popup-yes-no" data-desc="By clicking on the hyper-link, you will be leaving Bank's website and entering website operated by the other parties. Bank of Baroda does not control or endorse such websites, and bears no responsibility for the contents there in."
+                                  data-btn="yes">
+                                  <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/legal-service.svg" alt="">
+                                  <p>Legal Service</p>
+                              </a>
+                          </div>
+                      </li>
+                      <li>
+                          <div class="services">
+                              <a href="https://vakilsearch.com/bankofbaroda" class="popup-yes-no" data-desc="By clicking on the hyper-link, you will be leaving Bank's website and entering website operated by the other parties. Bank of Baroda does not control or endorse such websites, and bears no responsibility for the contents there in."
+                                  data-btn="yes">
+                                  <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/accounting.svg" alt="">
+                                  <p>Accounting</p>
+                              </a>
+                          </div>
+                      </li>
+                      <li>
+                          <div class="services">
+                              <a href="https://ivycamp.in/programs/bank-of-baroda-startup-program" class="popup-yes-no" data-desc="By clicking on the hyper-link, you will be leaving Bank's website and entering website operated by the other parties. Bank of Baroda does not control or endorse such websites, and bears no responsibility for the contents there in."
+                                  data-btn="yes">
+                                  <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/mentorship.svg" alt="">
+                                  <p>Mentorship</p>
+                              </a>
+                          </div>
+                      </li>
+                      <li>
+                          <div class="services">
+                              <a href="javascript:void(0);" class="popup-yes-no" data-desc="Coming Soon" data-btn="no">
+                                  <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/digital-marketing.svg" alt="">
+                                  <p>Digital Marketing</p>
+                              </a>
+                          </div>
+                      </li>
+                  </ul>
+              </div>
+          </div>
+      </div>
+  </div>
+
+</section>
+<section class="testimonial">
+  <div class="container">
+      <div class="row">
+          <div class="col-sm-4">
+              <div class="testimonial-txt">
+                  <div class="row align-items-center">
+                      <div class="col-sm-7 col">
+                          <h2>Customer Testimonials</h2>
+                      </div>
+                      <div class="col-sm-5 col">
+                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/customer.png" alt="">
+                      </div>
+                  </div>
+
+
+              </div>
+          </div>
+          <div class="col-sm-8">
+              <div class="row">
+                  <div class="slidercontainer" id="customer-id">
+
+                      <!-- <div class="sliderslide">
+                          <div class="bob-report-d-div">
+                              <div class="scroll-y">
+                                  <blockquote class="twitter-tweet">
+                                      <p lang="en" dir="ltr">From opening account in lockdown to smooth banking, <a href="https://twitter.com/bankofbaroda?ref_src=twsrc%5Etfw">@bankofbaroda</a> <a href="https://twitter.com/hashtag/BarodaStartupBanking?src=hash&amp;ref_src=twsrc%5Etfw">#BarodaStartupBanking</a>                                                        <a href="https://twitter.com/hashtag/startupcell?src=hash&amp;ref_src=twsrc%5Etfw">#startupcell</a> nailed it. The best banking experience I ever had. I request all Start ups to open start up account
+                                          with <a href="https://twitter.com/bankofbaroda?ref_src=twsrc%5Etfw">@bankofbaroda</a><a href="https://twitter.com/BankofBarodaCEO?ref_src=twsrc%5Etfw">@bankofbarodaceo</a><a href="https://twitter.com/vikramadityask?ref_src=twsrc%5Etfw">@vikramadityask</a>
+                                          <a href="https://twitter.com/akhilhanda11?ref_src=twsrc%5Etfw">@akhilhanda11</a> <a href="https://t.co/M1KRfck6Vl">pic.twitter.com/M1KRfck6Vl</a></p>
+                                      &mdash; Yash Tarwadi (@yashtarwadi) <a href="https://twitter.com/yashtarwadi/status/1306432400583528448?ref_src=twsrc%5Etfw">September 17, 2020</a>
+                                  </blockquote>
+                                  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                              </div>
+                          </div>
+                      </div> -->
+                      
+                      <div class="sliderslide">
+
+                          <!-- <svg class="bob-fb-svg" xmlns="http://www.w3.org/2000/svg" width="35.202" height="35.202" viewBox="0 0 35.202 35.202" fill="#F26522"><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="bob-fb-hover"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient><path d="M-105.4-122a17.6,17.6,0,0,1,17.6,17.6,17.6,17.6,0,0,1-17.6,17.6A17.6,17.6,0,0,1-123-104.4,17.6,17.6,0,0,1-105.4-122Z" transform="translate(123 122)"></path><path class="b" d="M-7.137-46.19h2.327v-3.263H-7.545v.012c-3.315.111-3.995,1.88-4.054,3.738h-.007v1.63h-2.257v3.2h2.257v8.567h3.4v-8.567h2.787l.538-3.2H-8.2v-.985A1.075,1.075,0,0,1-7.137-46.19Z" transform="translate(26.937 58.448)" fill="#fff"></path></svg> -->
+
+                          <div class="customer_comnt">
+                              <div class="row align-items-center">
+                                  <div class="col-sm-3 cstmr_prfl col-3">
+                                      <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/nika-dp.jpg" alt="" class="img-fluid">
+
+                                  </div>
+                                  <div class="col-sm-9 col-9">
+                                      <h2>Nika TR</h2>
+                                      <small> @yashtarwadi</small>
+                                  </div>
+
+                              </div>
+                              <div class="inner-slider-div">
+                                  <div class="col-sm-12">
+                                      <span>16 July 2022</span>
+                                      <p>
+
+                                          Bank of Baroda
+                                          #barodastartup
+                                          #BarodaStartupBanking
+
+                                          The journey with Bank Of Baroda Startup Banking (Startup Zone Kochi ) has been super exciting.
+
+                                          The transition from a private bank account to BOB Startup Current account was frictionless .
+
+                                          The tailor made features of BOB startup current account are best in the industry and in sync with requirements of a Startup .
+
+                                          It’s commendable to see the trio of Mr.Sujith S (BM Vazhakala) , Mr. Abhilash Sugunadas(Startup Champ) and Mr. Mohit Khatore(Startup Relationship Manager) being so driven by the vision of providing top notch service to customers and being proactive in sharing industry relevant insights / making us understand the various Benefits of DPIIT recognition , understanding our requirements for funding/ growth and enable the infusion at the right time within the stipulated TAT .
+
+                                          It’s wonderful to see the team being inspired by the Kaizen approach of continuous improvement which we implement in all our endeavours .
+
+                                          Kudos to BOB for spearheading the initiative in  supporting the Innovation ,Entrepreneurs and strengthening the Ecosystem .
+
+
+
+                                      </p>
+                                      <div class="star-div">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+                                      </div>
+                                  </div>
+
+                                  <div class="col-sm-12">
+                                      <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/nita-fb.jpg" alt="" class="img-fluid main-img">
+                                  </div>
+
+                              </div>
+                          </div>
+                      </div>
+                      <div class="sliderslide">
+
+                          <a href="javascript:void(0);" class="bob-tw-svg">
+                              <svg  xmlns="http://www.w3.org/2000/svg" width="35.202" height="34.798" viewBox="0 0 35.202 34.798" fill="#F26522"><path d="M17.6,0A17.5,17.5,0,0,0,0,17.4,17.5,17.5,0,0,0,17.6,34.8,17.5,17.5,0,0,0,35.2,17.4,17.5,17.5,0,0,0,17.6,0ZM12.486,26.3H8.2V13.554h4.287ZM10.343,11.813h-.028a2.211,2.211,0,1,1,.056-4.405,2.212,2.212,0,1,1-.029,4.405ZM27.943,26.3H23.657v-6.82c0-1.714-.621-2.883-2.172-2.883a2.344,2.344,0,0,0-2.2,1.55,2.87,2.87,0,0,0-.141,1.034V26.3H14.859s.056-11.553,0-12.749h4.286v1.805a4.263,4.263,0,0,1,3.863-2.1c2.82,0,4.935,1.822,4.935,5.738Z"></path></svg>
+                          </a>
+                          <div class="customer_comnt">
+                              <div class="row align-items-center">
+                                  <div class="col-sm-3 cstmr_prfl col-3">
+                                      <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/mindcaredoc.png" alt="" class="img-fluid">
+
+                                  </div>
+                                  <div class="col-sm-9 col-9">
+                                      <h2>MindCareDoc</h2>
+                                      <small> Hospitals and Health Care</small>
+                                  </div>
+
+                              </div>
+                              <div class="inner-slider-div">
+                                  <div class="col-sm-12">
+                                      <span>25 may 2022</span>
+                                      <p>
+
+                                          A Startup is a Risky Tricky Game in itself. We took some time to decide on our Banker and We believe the wait was Worth it.
+                                          Bank of Baroda clearly understood the needs of a Startup and #BarodaStartUpBanking was definitely the winner amongst all the options we had.
+                                          The team has been extremely supportive through our Journey so far. They Take Note of our Needs, Listens to our Concerns, Motivates amd Supports us to Take the Next Step. Thanks a Ton! Bank of Baroda Abhilash Sugunadas Mohit Khatore Akhil H. Vikramaditya Singh Khichi
+
+                                          #BarodaStartUpBanking #StartupzoneKochi
+                                      </p>
+                                      <div class="star-div">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+                                      </div>
+                                  </div>
+
+
+                                  <div class="col-sm-12">
+                                      <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/mindcaredoc1.png" alt="" class="img-fluid main-img">
+                                  </div>
+                                  <div class="col-sm-12">
+                                      <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/mindcaredoc2.png" alt="" class="img-fluid main-img">
+                                  </div>
+
+                              </div>
+                          </div>
+                      </div>
+
+                      <div class="sliderslide">
+                          <a href="javascript:void(0);" class="bob-tw-svg">
+                          <svg xmlns="http://www.w3.org/2000/svg" width="35.202" height="34.798" viewBox="0 0 35.202 34.798" fill="#F26522"><path d="M17.6,0A17.5,17.5,0,0,0,0,17.4,17.5,17.5,0,0,0,17.6,34.8,17.5,17.5,0,0,0,35.2,17.4,17.5,17.5,0,0,0,17.6,0ZM12.486,26.3H8.2V13.554h4.287ZM10.343,11.813h-.028a2.211,2.211,0,1,1,.056-4.405,2.212,2.212,0,1,1-.029,4.405ZM27.943,26.3H23.657v-6.82c0-1.714-.621-2.883-2.172-2.883a2.344,2.344,0,0,0-2.2,1.55,2.87,2.87,0,0,0-.141,1.034V26.3H14.859s.056-11.553,0-12.749h4.286v1.805a4.263,4.263,0,0,1,3.863-2.1c2.82,0,4.935,1.822,4.935,5.738Z"></path></svg>
+                          </a>
+                          <div class="customer_comnt">
+                              <div class="row align-items-center">
+                                  <div class="col-sm-3 cstmr_prfl col-3">
+                                      <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/viswanath.png" alt="" class="img-fluid">
+
+                                  </div>
+                                  <div class="col-sm-9 col-9">
+                                      <h2>Sreelakshmi Viswanath</h2>
+                                      <small> Director at FDS COOP LLP</small>
+                                  </div>
+
+                              </div>
+                              <div class="inner-slider-div">
+                                  <div class="col-sm-12">
+                                      <span>17 may 2022</span>
+                                      <p>
+
+                                          Being an entrepreneur it's really difficult to deal with financial management. But a Startup current account with Bank of Baroda (Vazhakkala, Kochi) was the right choice. Mr. Abhilash Sugunadas and Mr. Mohit Khatore has been supporting us from the very first beginning of our journey. Many thanks to BoB   Startup team especially Abhilash and Mohit
+
+                                          #BarodaStartUpBanking
+                                          #StartupzoneKochi
+                                      </p>
+                                      <div class="star-div">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+                                      </div>
+                                  </div>
+
+
+                                  <div class="col-sm-12">
+                                      <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/viswanath1.png" alt="" class="img-fluid main-img">
+                                  </div>
+
+                              </div>
+                          </div>
+                      </div>
+
+                      <div class="sliderslide">
+                              <a href="javascript:void(0);" class="bob-tw-svg">
+                          <svg  xmlns="http://www.w3.org/2000/svg" width="35.202" height="34.798" viewBox="0 0 35.202 34.798" fill="#FF5C34"><path d="M17.6,0A17.5,17.5,0,0,0,0,17.4,17.5,17.5,0,0,0,17.6,34.8,17.5,17.5,0,0,0,35.2,17.4,17.5,17.5,0,0,0,17.6,0Zm8.036,13.566q.012.257.012.516A11.347,11.347,0,0,1,14.154,25.445h0a11.531,11.531,0,0,1-6.192-1.794,8.309,8.309,0,0,0,.964.055A8.166,8.166,0,0,0,13.943,22a4.039,4.039,0,0,1-3.774-2.774,4.07,4.07,0,0,0,1.825-.069A4.007,4.007,0,0,1,8.753,15.24c0-.018,0-.034,0-.051a4.048,4.048,0,0,0,1.83.5,3.967,3.967,0,0,1-1.251-5.332,11.514,11.514,0,0,0,8.327,4.173,3.945,3.945,0,0,1-.105-.911,4.051,4.051,0,0,1,6.989-2.731,8.162,8.162,0,0,0,2.565-.969,4.018,4.018,0,0,1-1.777,2.209,8.129,8.129,0,0,0,2.32-.629A8.159,8.159,0,0,1,25.637,13.566Z" /></svg>
+                              </a>
+
+                          <div class="customer_comnt">
+                              <div class="row align-items-center">
+                                  <div class="col-sm-3 cstmr_prfl col-3">
+                                      <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/default-gents.png" alt="" class="img-fluid">
+
+                                  </div>
+                                  <div class="col-sm-9 col-9">
+                                      <h2>Sourabh Shetty</h2>
+                                      <small> @shettysourabh3</small>
+                                  </div>
+
+                              </div>
+                              <div class="inner-slider-div">
+                                  <div class="col-sm-12">
+                                      <span>10 Sep 2020</span>
+                                      <p>
+
+                                          "Opened a startup bank account in St.Johns BOB. Ashwin and Sumit guided us throughout the process and the experience was really good. The initiative by BOB for encouraging startups is really amazing. I would recommend new entrepreneurs to start their journey BOB. @17singhSumit
+                                          @akhilhanda11
+                                          @AshwinKumarMoh2
+                                          @vikramadityask
+                                          @bankofbaroda
+                                          @BankofBarodaCEO
+                                          @bankofbaroda"
+
+
+
+
+                                      </p>
+                                      <div class="star-div">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+                                      </div>
+                                  </div>
+
+
+
+                              </div>
+                          </div>
+                      </div>
+                      <div class="sliderslide">
+                              <a href="javascript:void(0);" class="bob-tw-svg">
+                          <svg xmlns="http://www.w3.org/2000/svg" width="35.202" height="34.798" viewBox="0 0 35.202 34.798" fill="#FF5C34"><path d="M17.6,0A17.5,17.5,0,0,0,0,17.4,17.5,17.5,0,0,0,17.6,34.8,17.5,17.5,0,0,0,35.2,17.4,17.5,17.5,0,0,0,17.6,0Zm8.036,13.566q.012.257.012.516A11.347,11.347,0,0,1,14.154,25.445h0a11.531,11.531,0,0,1-6.192-1.794,8.309,8.309,0,0,0,.964.055A8.166,8.166,0,0,0,13.943,22a4.039,4.039,0,0,1-3.774-2.774,4.07,4.07,0,0,0,1.825-.069A4.007,4.007,0,0,1,8.753,15.24c0-.018,0-.034,0-.051a4.048,4.048,0,0,0,1.83.5,3.967,3.967,0,0,1-1.251-5.332,11.514,11.514,0,0,0,8.327,4.173,3.945,3.945,0,0,1-.105-.911,4.051,4.051,0,0,1,6.989-2.731,8.162,8.162,0,0,0,2.565-.969,4.018,4.018,0,0,1-1.777,2.209,8.129,8.129,0,0,0,2.32-.629A8.159,8.159,0,0,1,25.637,13.566Z" /></svg>
+                              </a>
+                          <div class="customer_comnt">
+                              <div class="row align-items-center">
+                                  <div class="col-sm-3 cstmr_prfl col-3">
+                                      <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/buyexchange.jpg" alt="" class="img-fluid">
+
+                                  </div>
+                                  <div class="col-sm-9 col-9">
+                                      <h2>MAKSPay</h2>
+                                      <small> MAKSPay</small>
+                                  </div>
+
+                              </div>
+                              <div class="inner-slider-div">
+                                  <div class="col-sm-12">
+                                      <span>10 Sep 2020</span>
+                                      <p>
+
+                                          MAKSPay has received "Startup India DIPP Certification" and has is partnered with "Bank of Baroda Startup Program". We are honoured and previleged to align ourselves with a Bank of Baroda for their support and aid to Fintech Startups. Thank you for providing assistance and encouragement via this wonderful Startup Kit. Looking forward to leveraging each others capabilites - Build and Serve for a Digital and Progressive Bharat! https://lnkd.in/fUkhtEr #makspay #startup #fintech #innovation #banks #entrepreneurship #BarodaStartupBanking
+
+
+
+
+                                      </p>
+                                      <div class="star-div">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+                                      </div>
+                                  </div>
+
+
+
+                              </div>
+                          </div>
+                      </div>
+                      <div class="sliderslide">
+                              <a href="javascript:void(0);" class="bob-tw-svg">
+                          <svg  xmlns="http://www.w3.org/2000/svg" width="35.202" height="34.798" viewBox="0 0 35.202 34.798" fill="#FF5C34"><path d="M17.6,0A17.5,17.5,0,0,0,0,17.4,17.5,17.5,0,0,0,17.6,34.8,17.5,17.5,0,0,0,35.2,17.4,17.5,17.5,0,0,0,17.6,0Zm8.036,13.566q.012.257.012.516A11.347,11.347,0,0,1,14.154,25.445h0a11.531,11.531,0,0,1-6.192-1.794,8.309,8.309,0,0,0,.964.055A8.166,8.166,0,0,0,13.943,22a4.039,4.039,0,0,1-3.774-2.774,4.07,4.07,0,0,0,1.825-.069A4.007,4.007,0,0,1,8.753,15.24c0-.018,0-.034,0-.051a4.048,4.048,0,0,0,1.83.5,3.967,3.967,0,0,1-1.251-5.332,11.514,11.514,0,0,0,8.327,4.173,3.945,3.945,0,0,1-.105-.911,4.051,4.051,0,0,1,6.989-2.731,8.162,8.162,0,0,0,2.565-.969,4.018,4.018,0,0,1-1.777,2.209,8.129,8.129,0,0,0,2.32-.629A8.159,8.159,0,0,1,25.637,13.566Z" /></svg>
+                              </a>
+
+                          <div class="customer_comnt">
+                              <div class="row align-items-center">
+                                  <div class="col-sm-3 cstmr_prfl col-3">
+                                      <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/rawat.jpg" alt="" class="img-fluid">
+
+                                  </div>
+                                  <div class="col-sm-9 col-9">
+                                      <h2>RJ Raawat</h2>
+                                      <small> @rjraawat</small>
+                                  </div>
+
+                              </div>
+                              <div class="inner-slider-div">
+                                  <div class="col-sm-12">
+                                      <span>10 Sep 2020</span>
+                                      <p>
+
+                                          Bank is the first friend of Startups and @bankofbaroda has many features like, a perfect online portal, easy to open current account, startup kit. All this makes this bank a perfect friend :) Thanks Shobhit Sir  @shobhit2424 Thanks Akhil Sir @akhilhanda11 @webouse_india
+
+
+
+
+                                      </p>
+                                      <div class="star-div">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+                                      </div>
+                                  </div>
+
+
+
+                              </div>
+                          </div>
+                      </div>
+                      <div class="sliderslide">
+                              <a href="javascript:void(0);"  class="bob-tw-svg">
+                          <svg xmlns="http://www.w3.org/2000/svg" width="35.202" height="34.798" viewBox="0 0 35.202 34.798" fill="#FF5C34"><path d="M17.6,0A17.5,17.5,0,0,0,0,17.4,17.5,17.5,0,0,0,17.6,34.8,17.5,17.5,0,0,0,35.2,17.4,17.5,17.5,0,0,0,17.6,0Zm8.036,13.566q.012.257.012.516A11.347,11.347,0,0,1,14.154,25.445h0a11.531,11.531,0,0,1-6.192-1.794,8.309,8.309,0,0,0,.964.055A8.166,8.166,0,0,0,13.943,22a4.039,4.039,0,0,1-3.774-2.774,4.07,4.07,0,0,0,1.825-.069A4.007,4.007,0,0,1,8.753,15.24c0-.018,0-.034,0-.051a4.048,4.048,0,0,0,1.83.5,3.967,3.967,0,0,1-1.251-5.332,11.514,11.514,0,0,0,8.327,4.173,3.945,3.945,0,0,1-.105-.911,4.051,4.051,0,0,1,6.989-2.731,8.162,8.162,0,0,0,2.565-.969,4.018,4.018,0,0,1-1.777,2.209,8.129,8.129,0,0,0,2.32-.629A8.159,8.159,0,0,1,25.637,13.566Z" /></svg>
+                              </a>
+
+                          <div class="customer_comnt">
+                              <div class="row align-items-center">
+                                  <div class="col-sm-3 cstmr_prfl col-3">
+                                      <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/default-gents.png" alt="" class="img-fluid">
+
+                                  </div>
+                                  <div class="col-sm-9 col-9">
+                                      <h2>Dinesh Kr. Gautam</h2>
+                                      <small> @dkgautam007</small>
+                                  </div>
+
+                              </div>
+                              <div class="inner-slider-div">
+                                  <div class="col-sm-12">
+                                      <span>10 Sep 2020</span>
+                                      <p>
+
+                                          Heavy rains in #Ahmedabad and still @bankofbaroda Team reached to us deliever our #StartUpKit. Happy to join hands with Best Banking Partner #BarodaStartupBanking for our @admightyindia @DIPPGOI @startupindia @nsitharaman @RBI @PIB_India @dftindia @M_Lekhi @narendramodi @PMOIndia
+
+
+
+                                      </p>
+                                      <div class="star-div">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+                                      </div>
+                                  </div>
+
+
+
+                              </div>
+                          </div>
+                      </div>
+
+
+                      <div class="sliderslide">
+                              <a href="https://twitter.com/yashtarwadi/status/1306432400583528448" target="_blank" class="bob-tw-svg">
+                          <svg  xmlns="http://www.w3.org/2000/svg" width="35.202" height="34.798" viewBox="0 0 35.202 34.798" fill="#FF5C34"><path d="M17.6,0A17.5,17.5,0,0,0,0,17.4,17.5,17.5,0,0,0,17.6,34.8,17.5,17.5,0,0,0,35.2,17.4,17.5,17.5,0,0,0,17.6,0Zm8.036,13.566q.012.257.012.516A11.347,11.347,0,0,1,14.154,25.445h0a11.531,11.531,0,0,1-6.192-1.794,8.309,8.309,0,0,0,.964.055A8.166,8.166,0,0,0,13.943,22a4.039,4.039,0,0,1-3.774-2.774,4.07,4.07,0,0,0,1.825-.069A4.007,4.007,0,0,1,8.753,15.24c0-.018,0-.034,0-.051a4.048,4.048,0,0,0,1.83.5,3.967,3.967,0,0,1-1.251-5.332,11.514,11.514,0,0,0,8.327,4.173,3.945,3.945,0,0,1-.105-.911,4.051,4.051,0,0,1,6.989-2.731,8.162,8.162,0,0,0,2.565-.969,4.018,4.018,0,0,1-1.777,2.209,8.129,8.129,0,0,0,2.32-.629A8.159,8.159,0,0,1,25.637,13.566Z" /></svg>
+                              </a>
+
+                          <div class="customer_comnt">
+                              <div class="row align-items-center">
+                                  <div class="col-sm-3 cstmr_prfl col-3">
+                                      <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/yash.png" alt="" class="img-fluid">
+
+                                  </div>
+                                  <div class="col-sm-9 col-9">
+                                      <h2>Yash Tarwadi</h2>
+                                      <small> @yashtarwadi</small>
+                                  </div>
+
+                              </div>
+                              <div class="inner-slider-div">
+                                  <div class="col-sm-12">
+                                      <span>10 Sep 2020</span>
+                                      <p>
+                                          <a href="https://twitter.com/yashtarwadi/status/1306432400583528448" target="_blank" >
+                                          "From opening account in lockdown to smooth banking,
+                                          @bankofbaroda
+                                          #BarodaStartupBanking #startupcell nailed it. The best banking experience I ever had. I request all Start ups to open start up account with
+                                          @bankofbaroda
+                                          @bankofbarodaceo
+                                          @vikramadityask
+                                          @akhilhanda11"
+
+                                       </a>
+
+                                      </p>
+                                      <div class="star-div">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+                                      </div>
+                                  </div>
+
+                                  <div class="col-sm-12">
+                                      <a href="https://twitter.com/yashtarwadi/status/1306432400583528448" target="_blank" class="bob-gallery-img-div">
+                                      <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/yash1.png" alt="" class="img-fluid main-img">
+                                  </a>
+                                  </div>
+
+                              </div>
+                          </div>
+                      </div>
+
+                      <div class="sliderslide">
+                              <a href="https://twitter.com/divu26/status/1304036981203070978" target="_blank" class="bob-tw-svg">
+                          <svg xmlns="http://www.w3.org/2000/svg" width="35.202" height="34.798" viewBox="0 0 35.202 34.798" fill="#FF5C34"><path d="M17.6,0A17.5,17.5,0,0,0,0,17.4,17.5,17.5,0,0,0,17.6,34.8,17.5,17.5,0,0,0,35.2,17.4,17.5,17.5,0,0,0,17.6,0Zm8.036,13.566q.012.257.012.516A11.347,11.347,0,0,1,14.154,25.445h0a11.531,11.531,0,0,1-6.192-1.794,8.309,8.309,0,0,0,.964.055A8.166,8.166,0,0,0,13.943,22a4.039,4.039,0,0,1-3.774-2.774,4.07,4.07,0,0,0,1.825-.069A4.007,4.007,0,0,1,8.753,15.24c0-.018,0-.034,0-.051a4.048,4.048,0,0,0,1.83.5,3.967,3.967,0,0,1-1.251-5.332,11.514,11.514,0,0,0,8.327,4.173,3.945,3.945,0,0,1-.105-.911,4.051,4.051,0,0,1,6.989-2.731,8.162,8.162,0,0,0,2.565-.969,4.018,4.018,0,0,1-1.777,2.209,8.129,8.129,0,0,0,2.32-.629A8.159,8.159,0,0,1,25.637,13.566Z" /></svg>
+                              </a>
+
+                          <div class="customer_comnt">
+                              <div class="row align-items-center">
+                                  <div class="col-sm-3 cstmr_prfl col-3">
+                                      <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/default-ladies.png" alt="" class="img-fluid">
+
+                                  </div>
+                                  <div class="col-sm-9 col-9">
+                                      <h2>divu26</h2>
+                                      <small> @divu26</small>
+                                  </div>
+
+                              </div>
+                              <div class="inner-slider-div">
+                                  <div class="col-sm-12">
+                                      <span>10 Sep 2020</span>
+                                      <p>
+                                          <a href="https://twitter.com/divu26/status/1304036981203070978" target="_blank" >
+                                          Recieved BOB STARTUP KIT TODAY; Thanks Ashiwin Kumar
+                                      </a>
+
+                                      </p>
+                                      <div class="star-div">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+                                      </div>
+                                  </div>
+
+                                  <div class="col-sm-12">
+                                      <a href="https://twitter.com/divu26/status/1304036981203070978" target="_blank" class="bob-gallery-img-div" >
+                                      <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/dipu1.png" alt="" class="img-fluid main-img">
+                                  </a>
+                                  </div>
+
+                              </div>
+                          </div>
+                      </div>
+
+
+                      <div class="sliderslide">
+                              <a href="https://twitter.com/ExpenseGuide/status/1313743948293128192" target="_blank" class="bob-tw-svg">
+                          <svg xmlns="http://www.w3.org/2000/svg" width="35.202" height="34.798" viewBox="0 0 35.202 34.798" fill="#FF5C34"><path d="M17.6,0A17.5,17.5,0,0,0,0,17.4,17.5,17.5,0,0,0,17.6,34.8,17.5,17.5,0,0,0,35.2,17.4,17.5,17.5,0,0,0,17.6,0Zm8.036,13.566q.012.257.012.516A11.347,11.347,0,0,1,14.154,25.445h0a11.531,11.531,0,0,1-6.192-1.794,8.309,8.309,0,0,0,.964.055A8.166,8.166,0,0,0,13.943,22a4.039,4.039,0,0,1-3.774-2.774,4.07,4.07,0,0,0,1.825-.069A4.007,4.007,0,0,1,8.753,15.24c0-.018,0-.034,0-.051a4.048,4.048,0,0,0,1.83.5,3.967,3.967,0,0,1-1.251-5.332,11.514,11.514,0,0,0,8.327,4.173,3.945,3.945,0,0,1-.105-.911,4.051,4.051,0,0,1,6.989-2.731,8.162,8.162,0,0,0,2.565-.969,4.018,4.018,0,0,1-1.777,2.209,8.129,8.129,0,0,0,2.32-.629A8.159,8.159,0,0,1,25.637,13.566Z" /></svg>
+                              </a>
+                          <div class="customer_comnt">
+                              <div class="row align-items-center">
+                                  <div class="col-sm-3 cstmr_prfl col-3">
+                                      <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/guide.png" alt="" class="img-fluid">
+
+                                  </div>
+                                  <div class="col-sm-9 col-9">
+                                      <h2>Expense Guide</h2>
+                                      <small>@ExpenseGuide</small>
+                                  </div>
+
+                              </div>
+                              <div class="inner-slider-div">
+                                  <div class="col-sm-12">
+                                      <span>07 Oct 2020</span>
+                                      <p>
+                                          <a href="https://twitter.com/ExpenseGuide/status/1313743948293128192" target="_blank">
+                                          "I really appreciate the support provided by @bankofbaroda especially the Pune startup cell.
+                                          @Swapnilpatil786 and @Anilchoudhari33 guided us throughout the process. I would recommend entrepreneurs to start their journey with #Barodastartupbanking @AkhilHanda11 @vikramadityask"
+                                          </a>
+
+                                      </p>
+                                      <div class="star-div">
+                                          
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+
+                                    
+                                      </div>
+                                  </div>
+                                  <div class="col-sm-12">
+                                      <a href="https://twitter.com/ExpenseGuide/status/1313743948293128192" target="_blank" class="bob-gallery-img-div">
+                                      <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/guide1.png" alt="" class="img-fluid main-img">
+                                  </a>
+                                  </div>
+                                  <div class="col-sm-12">
+                                      <a href="https://twitter.com/ExpenseGuide/status/1313743948293128192" target="_blank" class="bob-gallery-img-div">
+                                      <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/guide2.png" alt="" class="img-fluid main-img">
+                                  </a>
+                                  </div>
+
+                              </div>
+                          </div>
+                      </div>
+                      <div class="sliderslide">
+                              <a href="https://twitter.com/Vishnu24810840/status/1310855853524746240" target="_blank" class="bob-tw-svg">
+                          <svg  xmlns="http://www.w3.org/2000/svg" width="35.202" height="34.798" viewBox="0 0 35.202 34.798" fill="#FF5C34"><path d="M17.6,0A17.5,17.5,0,0,0,0,17.4,17.5,17.5,0,0,0,17.6,34.8,17.5,17.5,0,0,0,35.2,17.4,17.5,17.5,0,0,0,17.6,0Zm8.036,13.566q.012.257.012.516A11.347,11.347,0,0,1,14.154,25.445h0a11.531,11.531,0,0,1-6.192-1.794,8.309,8.309,0,0,0,.964.055A8.166,8.166,0,0,0,13.943,22a4.039,4.039,0,0,1-3.774-2.774,4.07,4.07,0,0,0,1.825-.069A4.007,4.007,0,0,1,8.753,15.24c0-.018,0-.034,0-.051a4.048,4.048,0,0,0,1.83.5,3.967,3.967,0,0,1-1.251-5.332,11.514,11.514,0,0,0,8.327,4.173,3.945,3.945,0,0,1-.105-.911,4.051,4.051,0,0,1,6.989-2.731,8.162,8.162,0,0,0,2.565-.969,4.018,4.018,0,0,1-1.777,2.209,8.129,8.129,0,0,0,2.32-.629A8.159,8.159,0,0,1,25.637,13.566Z" /></svg>
+                              </a>
+                          <div class="customer_comnt">
+                              <div class="row align-items-center">
+                                  <div class="col-sm-3 cstmr_prfl col-3">
+                                      <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/prf.png" alt="" class="img-fluid">
+
+                                  </div>
+                                  <div class="col-sm-9 col-9">
+                                      <h2>Vishnu </h2>
+                                      <small>@Vishnu24810840</small>
+                                  </div>
+
+                              </div>
+                              <div class="inner-slider-div">
+                                  <div class="col-sm-12">
+                                      <span>29 Sep 2020</span>
+                                      <p>
+                                          <a href="https://twitter.com/Vishnu24810840/status/1310855853524746240" target="_blank">
+                                          "I really appreciate the support and services provided by Bank of Baroda especially the startup cell in St John's Bank of Baroda @ashwin and @sumit is highly recommended. @bankofbaroda @babnkofbarodaceo @vikramadityask @akhilhanda11 @AshwinKumarMoh2 @17singhsumit"
+                                             </a>
+                                      </p>
+                                      <div class="star-div">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+                                      </div>
+                                  </div>
+                                  <div class="col-sm-12">
+                                      <a href="https://twitter.com/Vishnu24810840/status/1310855853524746240" target="_blank" class="bob-gallery-img-div">
+                                      <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/t1.png" alt="" class="img-fluid main-img">
+                                      </a>
+                                  </div>
+                                  <div class="col-sm-12">
+                                      <a href="https://twitter.com/Vishnu24810840/status/1310855853524746240" target="_blank" class="bob-gallery-img-div"> 
+                                      <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/t2.png" alt="" class="img-fluid main-img">
+                                      </a>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+
+                      <!-- <div class="sliderslide">
+                          <div class="bob-report-d-div">
+
+                              <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/t1.png" alt="" class="img-fluid">
+                              <svg class="bob-tw-svg" xmlns="http://www.w3.org/2000/svg" width="35.202" height="34.798" viewBox="0 0 35.202 34.798" fill="#FF5C34"><path d="M17.6,0A17.5,17.5,0,0,0,0,17.4,17.5,17.5,0,0,0,17.6,34.8,17.5,17.5,0,0,0,35.2,17.4,17.5,17.5,0,0,0,17.6,0Zm8.036,13.566q.012.257.012.516A11.347,11.347,0,0,1,14.154,25.445h0a11.531,11.531,0,0,1-6.192-1.794,8.309,8.309,0,0,0,.964.055A8.166,8.166,0,0,0,13.943,22a4.039,4.039,0,0,1-3.774-2.774,4.07,4.07,0,0,0,1.825-.069A4.007,4.007,0,0,1,8.753,15.24c0-.018,0-.034,0-.051a4.048,4.048,0,0,0,1.83.5,3.967,3.967,0,0,1-1.251-5.332,11.514,11.514,0,0,0,8.327,4.173,3.945,3.945,0,0,1-.105-.911,4.051,4.051,0,0,1,6.989-2.731,8.162,8.162,0,0,0,2.565-.969,4.018,4.018,0,0,1-1.777,2.209,8.129,8.129,0,0,0,2.32-.629A8.159,8.159,0,0,1,25.637,13.566Z"/></svg>
+
+                          </div>
+                      </div> -->
+                      <!-- <div class="sliderslide">
+                          <div class="bob-report-d-div">
+
+                              <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/wa.png" alt="" class="img-fluid">
+                              <svg class="bob-tw-svg" xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" viewBox="0 0 24 24" fill="#FF5C34">
+                                      <g>
+                                          <path fill="none" d="M0 0h24v24H0z"/>
+                                          <path fill-rule="nonzero" d="M2.004 22l1.352-4.968A9.954 9.954 0 0 1 2 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10a9.954 9.954 0 0 1-5.03-1.355L2.004 22zM8.391 7.308a.961.961 0 0 0-.371.1 1.293 1.293 0 0 0-.294.228c-.12.113-.188.211-.261.306A2.729 2.729 0 0 0 6.9 9.62c.002.49.13.967.33 1.413.409.902 1.082 1.857 1.971 2.742.214.213.423.427.648.626a9.448 9.448 0 0 0 3.84 2.046l.569.087c.185.01.37-.004.556-.013a1.99 1.99 0 0 0 .833-.231c.166-.088.244-.132.383-.22 0 0 .043-.028.125-.09.135-.1.218-.171.33-.288.083-.086.155-.187.21-.302.078-.163.156-.474.188-.733.024-.198.017-.306.014-.373-.004-.107-.093-.218-.19-.265l-.582-.261s-.87-.379-1.401-.621a.498.498 0 0 0-.177-.041.482.482 0 0 0-.378.127v-.002c-.005 0-.072.057-.795.933a.35.35 0 0 1-.368.13 1.416 1.416 0 0 1-.191-.066c-.124-.052-.167-.072-.252-.109l-.005-.002a6.01 6.01 0 0 1-1.57-1c-.126-.11-.243-.23-.363-.346a6.296 6.296 0 0 1-1.02-1.268l-.059-.095a.923.923 0 0 1-.102-.205c-.038-.147.061-.265.061-.265s.243-.266.356-.41a4.38 4.38 0 0 0 .263-.373c.118-.19.155-.385.093-.536-.28-.684-.57-1.365-.868-2.041-.059-.134-.234-.23-.393-.249-.054-.006-.108-.012-.162-.016a3.385 3.385 0 0 0-.403.004z"/>
+                                      </g>
+                                  </svg>
+                          </div>
+                      </div> -->
+                      <!-- <div class="sliderslide">
+                          <div class="customer_comnt">
+                              <div class="row">
+                                  <div class="col-3 cstmr_prfl">
+                                      <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/dummy-profile.jpg" alt="">
+
+                                  </div>
+                                  <div class="col-9 cstmr-name">
+                                      <h2>Rahul Paul</h2>
+                                      <small>Buisnessman</small>
+                                  </div>
+
+                              </div>
+                              <div class="col-12">
+                                  <span>24 Aug 2022</span>
+                                  <p>We are delighted to inform you that we are extremely happy with your services.</p>
+                                  <p>From opening account in lockdown to smooth banking, @bankofbaroda #BarodaStartupBanking #startupcell nailed it.</p>
+                                  <div class="star-div">
+                                      <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+                                      <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+                                      <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid active">
+                                      <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid ">
+                                      <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt="" class="img-fluid">
+                                  </div>
+                              </div>
+
+                          </div>
+
+                      </div> -->
+
+
+                  </div>
+              </div>
+          </div>
+      </div>
+  </div>
+</section>
+<section class="entrepreneurs">
+  <div class="container grand-parent">
+      <div class="row">
+          <h2 class="baroda_blue_txt">Budding entrepreneurs</h2>
+          <div class="slidercontainer" id="slider-id">
+              <div class="sliderslide">
+                  <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/Brainwired.JPG" alt="">
+              </div>
+              <div class="sliderslide">
+                  <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/happy.png" alt="">
+              </div>
+              <div class="sliderslide">
+                  <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/tvasta.jfif" alt="">
+              </div>
+              <div class="sliderslide">
+                  <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/vanghee.png" alt="">
+              </div>
+              <div class="sliderslide">
+                  <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/vasy.png" alt="">
+              </div>
+              <!-- <div class="sliderslide">
+                  <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/ruco.png" alt="">
+              </div>
+              <div class="sliderslide">
+                  <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/organic.png" alt="">
+              </div>
+              <div class="sliderslide">
+                  <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/microsoft.png" alt="">
+              </div>
+              <div class="sliderslide">
+                  <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/aws.png" alt="">
+              </div>
+              <div class="sliderslide">
+                  <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/ibm.png" alt="">
+              </div>
+              <div class="sliderslide">
+                  <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/ruco.png" alt="">
+              </div>
+              <div class="sliderslide">
+                  <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/ruco.png" alt="">
+              </div>
+              <div class="sliderslide">
+                  <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/ruco.png" alt="">
+              </div> -->
+          </div>
+      </div>
+  </div>
+
+
+</section>
+
+<!-- <section class="events" id="startup_branches">
+  <div class="container event_parent">
+      <div class="row">
+          <h2 class="baroda_blue_txt">Startup Events</h2>
+          <div class="slidercontainer" id="event-slider-id">
+
+              <div class="sliderslide">
+                  <div class="box-content">
+                      <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/nisclogo.png" alt="">
+                      <div class="slide-txt">
+                          <h6>NASSCOM International SME Conclave</h6>
+                          <span>“Re-Imagine Business” on 3rd March, 2022 – 4th March , 2022</span>
+                      </div>
+                      <div class="read-more">
+                          <a href="">Know More</a>
+                      </div>
+                  </div>
+              </div>
+              <div class="sliderslide">
+                  <div class="box-content">
+                      <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/bsfi.png" alt="">
+                      <div class="slide-txt">
+                          <h6>Bank of Baroda wants to support 2,000 startups</h6>
+                          <span>April 06, 2022</span>
+                      </div>
+                      <div class="read-more">
+                          <a href="">Know More</a>
+                      </div>
+                  </div>
+              </div>
+              <div class="sliderslide">
+                  <div class="box-content">
+
+                      <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/telnet.png" alt="">
+                      <div class="slide-txt">
+                          <h6>Baroda Start Up Kit unboxing</h6>
+                          <span>May 16, 2020</span>
+                      </div>
+                      <div class="read-more">
+                          <a href="">Know More</a>
+                      </div>
+                  </div>
+              </div>
+              <div class="sliderslide">
+                  <div class="box-content">
+                      <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/bsfi.png" alt="">
+                      <div class="slide-txt">
+                          <h6>Bank of Baroda wants to support 2,000 startups</h6>
+                          <span>April 06, 2022</span>
+                      </div>
+                      <div class="read-more">
+                          <a href="">Know More</a>
+                      </div>
+                  </div>
+              </div>
+              <div class="sliderslide">
+                  <div class="box-content">
+                      <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/bsfi.png" alt="">
+                      <div class="slide-txt">
+                          <h6>Bank of Baroda wants to support 2,000 startups</h6>
+
+                          <span>April 06, 2022</span>
+                      </div>
+                      <div class="read-more">
+                          <a href="">Know More</a>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </div>
+</section> -->
+
+<section class="entrepreneurs testimonial">
+  <div class="container grand-parent">
+      <div class="row">
+          <h2 class="baroda_blue_txt">Startup Success Stories</h2>
+          <div class="slidercontainer" id="customer-stories">
+              <!-- <div class="sliderslide">
+                  <div class="bob-report-d-div">
+                          <a href="https://twitter.com/bankofbaroda/status/1537079983360835585" target="_blank" class="bob-tw-svg">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="35.202" height="34.798" viewBox="0 0 35.202 34.798" fill="#FF5C34">
+                                  <path
+                                      d="M17.6,0A17.5,17.5,0,0,0,0,17.4,17.5,17.5,0,0,0,17.6,34.8,17.5,17.5,0,0,0,35.2,17.4,17.5,17.5,0,0,0,17.6,0Zm8.036,13.566q.012.257.012.516A11.347,11.347,0,0,1,14.154,25.445h0a11.531,11.531,0,0,1-6.192-1.794,8.309,8.309,0,0,0,.964.055A8.166,8.166,0,0,0,13.943,22a4.039,4.039,0,0,1-3.774-2.774,4.07,4.07,0,0,0,1.825-.069A4.007,4.007,0,0,1,8.753,15.24c0-.018,0-.034,0-.051a4.048,4.048,0,0,0,1.83.5,3.967,3.967,0,0,1-1.251-5.332,11.514,11.514,0,0,0,8.327,4.173,3.945,3.945,0,0,1-.105-.911,4.051,4.051,0,0,1,6.989-2.731,8.162,8.162,0,0,0,2.565-.969,4.018,4.018,0,0,1-1.777,2.209,8.129,8.129,0,0,0,2.32-.629A8.159,8.159,0,0,1,25.637,13.566Z" />
+                              </svg>
+                          </a>
+                          <div class="customer_comnt">
+                              <div class="row align-items-center">
+                                  <div class="col-sm-3 cstmr_prfl col-3">
+                                      <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/default-ladies.png" alt=""
+                                          class="img-fluid">
+                                  </div>
+                                  <div class="col-sm-9 col-9">
+                                      <h2>divu26</h2>
+                                      <small> @divu26</small>
+                                  </div>
+                              </div>
+                              <div class="inner-slider-div">
+                                  <div class="col-sm-12">
+                                      <span>10 Sep 2020</span>
+                                      <p>
+                                          <a href="https://twitter.com/bankofbaroda/status/1537079983360835585" target="_blank"> Glad to support Happy Locate, a tech enabled relocation startup to turn their dreams into
+                                              reality. With #BarodaStartUp, it's time to take your startup to new heights and enhance your future. Join Today
+                                              http://bit.ly/BarodaStartUp- <br> #BankofBaroda #AzadiKaAmritMahotsav @AmritMahotsav </a>
+                                      </p>
+                                       <div class="star-div">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt=""
+                                              class="img-fluid active">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt=""
+                                              class="img-fluid active">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt=""
+                                              class="img-fluid active">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt=""
+                                              class="img-fluid active">
+                                          <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/star.svg" alt=""
+                                              class="img-fluid active">
+                                      </div> 
+                                  </div>
+                                  <div class="col-sm-12">
+                                      <a href="https://twitter.com/bankofbaroda/status/1537079983360835585" target="_blank" class="bob-gallery-img-div">
+                                      <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/tww.png" alt=""
+                                          class="img-fluid main-img">
+                                          </a>
+
+                                  </div>
+                              </div>
+                          </div>
+                  </div>
+              </div> -->
+              <div class="sliderslide">
+                  <div class="bob-report-d-div">
+                          <a href="https://twitter.com/bankofbaroda/status/1537079983360835585" target="_blank" class="bob-tw-svg">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="35.202" height="34.798" viewBox="0 0 35.202 34.798" fill="#FF5C34">
+                                  <path
+                                      d="M17.6,0A17.5,17.5,0,0,0,0,17.4,17.5,17.5,0,0,0,17.6,34.8,17.5,17.5,0,0,0,35.2,17.4,17.5,17.5,0,0,0,17.6,0Zm8.036,13.566q.012.257.012.516A11.347,11.347,0,0,1,14.154,25.445h0a11.531,11.531,0,0,1-6.192-1.794,8.309,8.309,0,0,0,.964.055A8.166,8.166,0,0,0,13.943,22a4.039,4.039,0,0,1-3.774-2.774,4.07,4.07,0,0,0,1.825-.069A4.007,4.007,0,0,1,8.753,15.24c0-.018,0-.034,0-.051a4.048,4.048,0,0,0,1.83.5,3.967,3.967,0,0,1-1.251-5.332,11.514,11.514,0,0,0,8.327,4.173,3.945,3.945,0,0,1-.105-.911,4.051,4.051,0,0,1,6.989-2.731,8.162,8.162,0,0,0,2.565-.969,4.018,4.018,0,0,1-1.777,2.209,8.129,8.129,0,0,0,2.32-.629A8.159,8.159,0,0,1,25.637,13.566Z" />
+                              </svg>
+                          </a>
+                          <div class="customer_comnt">
+                              <div class="row align-items-center">
+                                  <div class="col-sm-3 cstmr_prfl col-3">
+                                      <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/bob.jpg" alt=""
+                                          class="img-fluid">
+                                  </div>
+                                  <div class="col-sm-9 col-9">
+                                      <h2>Bank of Baroda</h2>
+                                      <small> @bankofbaroda</small>
+                                  </div>
+                              </div>
+                              <div class="inner-slider-div">
+                                  <div class="col-sm-12">
+                                      <span>15 Jun 2022</span>
+                                      <p>
+                                          <a href="https://twitter.com/bankofbaroda/status/1537079983360835585" target="_blank">Glad to support Happy Locate, a tech enabled relocation startup to turn their dreams into reality. With #BarodaStartUp, it's time to take your startup to new heights and enhance your future.<br />
+                                              Join Today <a href="http://bit.ly/BarodaStartUp">http://bit.ly/BarodaStartUp</a> </a>
+                                      </p>
+                                     
+                                  </div>
+                                  <div class="col-sm-12">
+                                      <a href="https://twitter.com/bankofbaroda/status/1537079983360835585" target="_blank" class="bob-gallery-img-div no-video-icon">
+                                      <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/tww.png" alt=""
+                                          class="img-fluid main-img">
+                                          </a>
+              
+                                  </div>
+                              </div>
+                          </div>
+                  </div>
+              </div>
+              <!-- <div class="sliderslide">
+                  <div class="bob-report-d-div">
+                      <div class="bob-gallery-img-div video-click" data-iframe="https://www.youtube.com/embed/tUh_Md5hFEI?controls=0&amp;rel=0">
+                          <img src="https://img.youtube.com/vi/tUh_Md5hFEI/sddefault.jpg" alt="" title="">
+                      </div>
+                      <div class="bob-gallery-text-div">
+                          <span>15 June 2022</span>
+                          <h6>Bank of Baroda | Baroda Startup Banking | Happy Locate</h6>
+                      </div>
+                  </div>
+              </div> -->
+              <div class="sliderslide">
+                  <div class="bob-report-d-div">
+                      <div class="bob-gallery-img-div video-click" data-iframe="https://www.youtube.com/embed/JLgqzunsOmo?controls=0&amp;rel=0">
+                          <img src="https://img.youtube.com/vi/JLgqzunsOmo/sddefault.jpg" alt="" title="">
+                      </div>
+                      <div class="bob-gallery-text-div">
+                          <span>06 June 2022</span>
+                          <h6>Bank of Baroda | Aage Ki Soch | Episode 16</h6>
+                      </div>
+                  </div>
+              </div>
+              <div class="sliderslide">
+                  <div class="bob-report-d-div">
+                      <div class="bob-gallery-img-div video-click" data-iframe="https://www.youtube.com/embed/k91N_SscqiE?controls=0&amp;rel=0">
+                          <img src="https://img.youtube.com/vi/k91N_SscqiE/sddefault.jpg" alt="" title="">
+                      </div>
+                      <div class="bob-gallery-text-div">
+                          <span>15 Jan 2022</span>
+                          <h6>Bank of Baroda | Aage Ki Soch Episode 20</h6>
+                      </div>
+                  </div>
+              </div>
+              <div class="sliderslide">
+                  <div class="bob-report-d-div">
+                      <div class="bob-gallery-img-div video-click" data-iframe="https://www.youtube.com/embed/TQjpe40d7EA?controls=0&amp;rel=0">
+                          <img src="https://img.youtube.com/vi/TQjpe40d7EA/sddefault.jpg" alt="" title="">
+                      </div>
+                      <div class="bob-gallery-text-div">
+                          <span>18 Jan 2022</span>
+                          <h6>Bank of Baroda | Aage Ki Soch Episode 21</h6>
+                      </div>
+                  </div>
+              </div>
+              <div class="sliderslide">
+                  <div class="bob-report-d-div">
+                      <div class="bob-gallery-img-div video-click" data-iframe="https://www.youtube.com/embed/QfONZUoD34Y?controls=0&amp;rel=0">
+                          <img src="https://img.youtube.com/vi/QfONZUoD34Y/sddefault.jpg" alt="" title="">
+                      </div>
+                      <div class="bob-gallery-text-div">
+                          <span>22 Jan 2022</span>
+                          <h6>Bank of Baroda | Aage Ki Soch Episode 23</h6>
+                      </div>
+                  </div>
+              </div>
+              <div class="sliderslide">
+                  <div class="bob-report-d-div">
+                      <div class="bob-gallery-img-div video-click" data-iframe="https://www.youtube.com/embed/QAgTsa8kLCw?controls=0&amp;rel=0">
+                          <img src="https://img.youtube.com/vi/QAgTsa8kLCw/sddefault.jpg" alt="" title="">
+                      </div>
+                      <div class="bob-gallery-text-div">
+                          <span>08 July 2022</span>
+                          <h6>Bank of Baroda | Baroda Startup Programme supports Project Tvasta - India’s first 3D house</h6>
+                      </div>
+                  </div>
+              </div>
+              <!-- <div class="sliderslide">
+                  <div class="bob-report-d-div">
+                      <div class="bob-gallery-img-div video-click" data-iframe="https://www.youtube.com/embed/rTFhJSc-ABQ?controls=0&amp;rel=0">
+                          <img src="https://img.youtube.com/vi/rTFhJSc-ABQ/sddefault.jpg" alt="" title="">
+                      </div>
+                      <div class="bob-gallery-text-div">
+                          <span>10 March 2022</span>
+                          <h6>Baroda Start-up" on the occasion of #BoBTurns112</h6>
+                      </div>
+                  </div>
+              </div> -->
+          </div>
+      </div>
+  </div>
+
+
+</section>
+
+<section class="resources" id="startup_resources">
+  <div class="container resource_parent">
+      <div class="row">
+          <div class="col-sm-12">
+              <h2 class="baroda_blue_txt">Startup Resources</h2>
+              <div class="slidercontainer" id="resources-slider-id">
+
+                  <div class="sliderslide">
+                      <div class="box-content">
+                          <p>Brief overview on Digital Lending</p>
+                          <div class="explore-more">
+                              <a href="https://www.bankofbaroda.in//writereaddata/images/pdf/final-bengaluru-digital-lending-22-06-2020.pdf" target="_blank"> Explore More</a>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="sliderslide">
+                      <div class="box-content">
+                          <p>Brief overview on Electric Vehicle Industry</p>
+                          <div class="explore-more">
+                              <a href="https://www.bankofbaroda.in//writereaddata/images/pdf/startup-electric-vehicle-12-06-2020.pdf" target="_blank"> Explore More</a>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="sliderslide">
+                      <div class="box-content">
+                          <p>Access a host of tax benefits, easier compliance, IPR fast-tracking & more by getting recognised from DPIIT</p>
+                          <div class="explore-more">
+                              <a href="https://www.startupindia.gov.in/content/sih/en/startup-scheme.html" target="_blank">Explore More</a>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="sliderslide">
+                      <div class="box-content">
+                          <p>Know more about various support schemes available for startups.</p>
+                          <div class="explore-more">
+                              <a href="https://www.startupindia.gov.in/content/sih/en/government-schemes.html" target="_blank">Explore More</a>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="sliderslide">
+                      <div class="box-content">
+                          <p>Reach out to the universe of Government Buyers by offering innovative products and services to the Government through the Government e-Marketplace (GeM).</p>
+                          <div class="explore-more">
+                              <a href="https://gem.gov.in/startup_runway" target="_blank">Explore More</a>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="sliderslide">
+                      <div class="box-content">
+                          <p>Learn about Government regulations specific to startups.</p>
+                          <div class="explore-more">
+                              <a href="https://www.startupindia.gov.in/content/sih/en/startupgov/notification.html" target="_blank">Explore More</a>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="sliderslide">
+                      <div class="box-content">
+                          <p>Improve your business with free resources designed exclusively for startups. </p>
+                          <div class="explore-more">
+                              <a href="https://www.startupindia.gov.in/content/sih/en/reources.html" target="_blank">Explore More</a>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="sliderslide">
+                      <div class="box-content">
+                          <p>Doing business in India or raising foreign funds, learn about the regulatory compliances.</p>
+                          <div class="explore-more">
+                              <a href="https://www.startupindia.gov.in/content/dam/invest-india/Templates/public/Doing%20Business%20in%20India.pdf" target="_blank"> Explore More</a>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="sliderslide">
+                      <div class="box-content">
+                          <p>Time to raise money from public, get listed on BSE Startup platform.</p>
+                          <div class="explore-more">
+                              <a href="https://www.startupsbse.com" target="_blank">Explore More</a>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="sliderslide">
+                      <div class="box-content">
+                          <p>Enrich your knowledge with meaningful insights around major domains like Digital SMB Lending, Digital Payments, Cyber Security etc.</p>
+                          <div class="explore-more">
+                              <a href="../../../newsletter-fintalk.htm" target="_blank"> Explore More</a>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </div>
+</section>
+
+<section class="faqs_accordion">
+  <div class="faqs-img-text-div">
+      <img src="/-/media/Project/BOB/CountryWebsites/India/start-up-banking/service.png" alt="" class="img-fluid">
+
+  </div>
+  <div class="faqs-text-div">
+      <div class="container">
+          <div class="row">
+              <div class="col-sm-12">
+                  <h2>
+                      Frequently Asked Questions (FAQs)
+                  </h2>
+                  <ul class="faqs-main-div">
+                      <li>
+                          <h6>
+                              What is bob World StartUp Banking program?
+                          </h6>
+                          <div class="faqs-content-div">
+                              <p>
+                                  Under this program, Bank of Baroda 's Startup Branches offers a bouquet of tailor-made banking products and services that have been designed keeping in mind the unique and specialized banking requirements of startups.
+                              </p>
+                          </div>
+                      </li>
+                      <li>
+                          <h6>
+                              What benefits this program offers apart from banking requirement?
+                          </h6>
+                          <div class="faqs-content-div">
+                              <p>
+                                  Apart from a bouquet of tailor-made banking products and services, the startups will also get acess to marquee service providers in the field of cloud computation, co-working spaces, legal, accounting, HR etc. at preferential rates.
+                              </p>
+                          </div>
+                      </li>
+                      <li>
+                          <h6>
+                              Who all are eligible?
+                          </h6>
+                          <div class="faqs-content-div">
+                              <p>
+                                  <ul>
+                                      <li>Startups incubated with select Incubators or</li>
+                                      <li>Startups funded by any angel investors or recognized funds or</li>
+                                      <li>Startups recognised by Department for Promotion of Industry and Internal Trade, Ministry of Commerce and Industry (DPIIT)</li>
+                                  </ul>
+                              </p>
+                          </div>
+                      </li>
+                      <li>
+                          <h6>
+                              Is there any cost charged by DPIIT for recognition and How to get recognised from DPIIT?
+                          </h6>
+                          <div class="faqs-content-div">
+                              <p>
+                                  There is no cost charged by DPIIT. Startups can get recognised by filling a simple application form at <a href="https://www.startupindia.gov.in/content/sih/en/recognition-page.html" target="_blank">https://www.startupindia.gov.in/content/sih/en/recognition-page.html</a>
+                              </p>
+                          </div>
+                      </li>
+                      <li>
+                          <h6>
+                              Is bob World StartUp Banking program only for early stage startups?
+                          </h6>
+                          <div class="faqs-content-div">
+                              <p>
+                                  The program is designed keeping in mind the requirement of startups at different stages of business lifecycle. Thus, any startup satisfying the eligibility criteria can apply for this program.
+                              </p>
+                          </div>
+                      </li>
+
+                  </ul>
+              </div>
+          </div>
+      </div>
+  </div>
+</section>
+
+
+
+        </div>
+    </main>
+    <!-- /#content -->
+    <!-- #footer -->
+    <footer>
+        <div id="footer" class="">
+            
+
+
+
+<div class="component container col-12">
+    <div class="component-content" >
+    </div>
+</div>
+
+
+<div class="component row-splitter">
+        <div class=" bob-main-bottom-links container-fluid">
+            <div class="row">
+                
+
+
+<div class="component container col-12">
+    <div class="component-content" >
+
+<div class="component link-list image-link-list col-sm-12">
+    <div class="component-content">
+        
+        <ul>
+                        <li class="item0 odd first">
+                                        <a href="/locate-us/branches" target="_blank" tabindex="0" aria-label="" role="link" alt="" title="" class="">
+                                            <img src="/-/media/project/bob/countrywebsites/india/icons/branchesatm-icon/fba.svg?iar=0&amp;hash=9375A27D0B988FD0B997AD7307FA7EE0" alt="Branches & ATM’s" />
+                                            <strong>Branches &amp; ATMs</strong>
+                                        </a>
+
+                        </li>
+                        <li class="item1 even">
+                                        <a href="/download-forms" target="_blank" tabindex="0" aria-label="" role="link" alt="" title="" class="">
+                                            <img src="/-/media/project/bob/countrywebsites/india/icons/downloadform-icon/fdf.svg?iar=0&amp;hash=54AE207E9CA13BD9EF5211B10CD61E60" alt="Download Forms" />
+                                            <strong>Download Forms</strong>
+                                        </a>
+
+                        </li>
+                        <li class="item2 odd">
+                                        <a href="/faqs" target="_blank" tabindex="0" aria-label="" role="link" alt="" title="" class="">
+                                            <img src="/-/media/project/bob/countrywebsites/india/icons/branchesatm-icon/ffaq.svg?iar=0&amp;hash=920BCC986B046BCBF81CCC6F74A2173A" alt="FAQ’s" />
+                                            <strong>FAQs</strong>
+                                        </a>
+
+                        </li>
+                        <li class="item3 even last">
+                                        <a href="/contact-us" target="_blank" tabindex="0" aria-label="" role="link" alt="" title="" class="">
+                                            <img src="/-/media/project/bob/countrywebsites/india/icons/downloadform-icon/fgit.svg?iar=0&amp;hash=DBA5210F41A6BB87F5B03A2AB28BF00E" alt="Get in Touch" />
+                                            <strong>Get in Touch</strong>
+                                        </a>
+
+                        </li>
+
+        </ul>
+    </div>
+</div>
+    </div>
+</div>
+            </div>
+        </div>
+        <div class="container-fluid">
+            <div class="row">
+                        <div class="footer-popuplar-searches" id="footerPopularSearchLinks" component-name="FooterPopularSearchLinks">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="main-popular-acco active">
+
+                                    <div class="main-popuplar-acco-content" tabindex="0" role="tablist" style="display:block">
+                                            <div class="inner-popular-content active">
+                                                <span tabindex="0" role="tab" aria-selected="true" aria-controls="panel-016FCFE277314CC3A8AE5EA1605DA733">
+                                                    <small>Popular Products</small>
+                                                    <svg class="bob-down-arrow-svg"
+                                                         xmlns="http://www.w3.org/2000/svg"
+                                                         width="12"
+                                                         height="7"
+                                                         viewBox="0 0 13.088 7.731"
+                                                         fill="#F26522">
+                                                        <path d="M12.879,101.344l-.429-.432a.718.718,0,0,0-1.013,0L6.547,105.8l-4.9-4.9a.718.718,0,0,0-1.013,0l-.429.429a.717.717,0,0,0,0,1.012l5.83,5.851a.732.732,0,0,0,.508.23h0a.732.732,0,0,0,.506-.23l5.824-5.835a.727.727,0,0,0,0-1.02Z"
+                                                              transform="translate(0 -100.698)"></path>
+                                                    </svg>
+                                                </span>
+                                                <div class="inner-popular-acco-content" tabindex="0" id="panel-016FCFE277314CC3A8AE5EA1605DA733" role="tabpanel" style="display:block">
+                                                    <div class="container-fluid">
+                                                        <div class="row">
+                                                                <div class="col">
+                                                                    <ul>
+                                                                                    <li><a href="/personal-banking/loans/personal-loan" tabindex="0" aria-role="link" title="Personal Loan" target="" class="">Personal Loan</a></li>
+                                                                                    <li><a href="/personal-banking/loans/home-loan" tabindex="0" aria-role="link" title="Home Loan" target="" class="">Home Loan</a></li>
+                                                                                    <li><a href="/personal-banking/loans/education-loan" tabindex="0" aria-role="link" title="Education Loan" target="" class="">Education Loan</a></li>
+                                                                                    <li><a href="/personal-banking/loans/gold-loan" tabindex="0" aria-role="link" title="Gold Loan" target="" class="">Gold Loan</a></li>
+                                                                                    <li><a href="/personal-banking/loans/vehicle-loan/baroda-two-wheeler-loan" tabindex="0" aria-role="link" title="Vehicle Loan" target="" class="">Vehicle Loan</a></li>
+                                                                                    <li><a href="/personal-banking/loans/pradhan-mantri-mudra-yojana" tabindex="0" aria-role="link" title="Mudra Loan" target="" class="">Mudra Loan</a></li>
+                                                                                    <li><a href="/personal-banking/accounts/saving-accounts" tabindex="0" aria-role="link" title="Saving Accounts" target="" class="">Saving Accounts</a></li>
+                                                                                    <li><a href="/personal-banking/accounts/term-deposit/fixed-deposit" tabindex="0" aria-role="link" title="Fixed Deposit" target="" class="">Fixed Deposit</a></li>
+                                                                                    <li><a href="/personal-banking/accounts/term-deposit/recurring-deposit/flexible-recurring-deposit-scheme" tabindex="0" aria-role="link" title="Recurring Deposit" target="" class="">Recurring Deposit</a></li>
+                                                                                    <li><a href="/personal-banking/accounts/current-accounts" tabindex="0" aria-role="link" title="Current Accounts" target="" class="">Current Accounts</a></li>
+                                                                    </ul>
+                                                                </div>
+                                                                <div class="col">
+                                                                    <ul>
+                                                                    </ul>
+                                                                </div>
+                                                                <div class="col">
+                                                                    <ul>
+                                                                    </ul>
+                                                                </div>
+                                                                <div class="col">
+                                                                    <ul>
+                                                                    </ul>
+                                                                </div>
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="inner-popular-content ">
+                                                <span tabindex="-1" role="tab" aria-selected="false" aria-controls="panel-FBFCA42765C2435EAF01B4F0E68E4771">
+                                                    <small>Digital Products</small>
+                                                    <svg class="bob-down-arrow-svg"
+                                                         xmlns="http://www.w3.org/2000/svg"
+                                                         width="12"
+                                                         height="7"
+                                                         viewBox="0 0 13.088 7.731"
+                                                         fill="#F26522">
+                                                        <path d="M12.879,101.344l-.429-.432a.718.718,0,0,0-1.013,0L6.547,105.8l-4.9-4.9a.718.718,0,0,0-1.013,0l-.429.429a.717.717,0,0,0,0,1.012l5.83,5.851a.732.732,0,0,0,.508.23h0a.732.732,0,0,0,.506-.23l5.824-5.835a.727.727,0,0,0,0-1.02Z"
+                                                              transform="translate(0 -100.698)"></path>
+                                                    </svg>
+                                                </span>
+                                                <div class="inner-popular-acco-content" tabindex="-1" id="panel-FBFCA42765C2435EAF01B4F0E68E4771" role="tabpanel" style="display:none">
+                                                    <div class="container-fluid">
+                                                        <div class="row">
+                                                                <div class="col">
+                                                                    <ul>
+                                                                                    <li><a href="/personal-banking/digital-products/cards/debit-cards" tabindex="-1" aria-role="link" title="Debit Cards" target="|Custom" class="">Debit Card</a></li>
+                                                                                    <li><a href="/personal-banking/digital-products/cards/credit-cards" tabindex="-1" aria-role="link" title="Credit Cards" target="|Custom" class="">Credit Card</a></li>
+                                                                                    <li><a href="https://www.bobworld.com/" tabindex="-1" aria-role="link" title="Mobile Banking" target="_blank" class="">Mobile Banking</a></li>
+                                                                                    <li><a href="/personal-banking/digital-products/instant-banking/bob-world-internet-banking" tabindex="-1" aria-role="link" title="Internet Banking" target="" class="">Internet Banking</a></li>
+                                                                                    <li><a href="/personal-banking/digital-products/instant-banking/whatsapp-banking" tabindex="-1" aria-role="link" title="WhatsApp Banking" target="" class="">WhatsApp Banking</a></li>
+                                                                                    <li><a href="/locate-us/branches" tabindex="-1" aria-role="link" title="Branch Locator" target="|Custom" class="">Branch Locator</a></li>
+                                                                    </ul>
+                                                                </div>
+                                                                <div class="col">
+                                                                    <ul>
+                                                                    </ul>
+                                                                </div>
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="inner-popular-content ">
+                                                <span tabindex="-1" role="tab" aria-selected="false" aria-controls="panel-6C308DA8B03347A4BAC23F54BC1C1B3C">
+                                                    <small>Important Calculators</small>
+                                                    <svg class="bob-down-arrow-svg"
+                                                         xmlns="http://www.w3.org/2000/svg"
+                                                         width="12"
+                                                         height="7"
+                                                         viewBox="0 0 13.088 7.731"
+                                                         fill="#F26522">
+                                                        <path d="M12.879,101.344l-.429-.432a.718.718,0,0,0-1.013,0L6.547,105.8l-4.9-4.9a.718.718,0,0,0-1.013,0l-.429.429a.717.717,0,0,0,0,1.012l5.83,5.851a.732.732,0,0,0,.508.23h0a.732.732,0,0,0,.506-.23l5.824-5.835a.727.727,0,0,0,0-1.02Z"
+                                                              transform="translate(0 -100.698)"></path>
+                                                    </svg>
+                                                </span>
+                                                <div class="inner-popular-acco-content" tabindex="-1" id="panel-6C308DA8B03347A4BAC23F54BC1C1B3C" role="tabpanel" style="display:none">
+                                                    <div class="container-fluid">
+                                                        <div class="row">
+                                                                <div class="col">
+                                                                    <ul>
+                                                                                    <li><a href="/calculators/personal-loan-emi-calculator" tabindex="-1" aria-role="link" title="Personal Loan EMI Calculator" target="|Custom" class="">Personal Loan EMI Calculator</a></li>
+                                                                                    <li><a href="/calculators/home-loan-emi-calculator" tabindex="-1" aria-role="link" title="Home Loan EMI Calculator" target="|Custom" class="">Home Loan EMI Calculator</a></li>
+                                                                                    <li><a href="/calculators/ppf-calculator" tabindex="-1" aria-role="link" title="PPF Calculator" target="|Custom" class="">PPF Calculator</a></li>
+                                                                                    <li><a href="/calculators/car-loan-emi-calculator" tabindex="-1" aria-role="link" title="Car Loan EMI Calculator" target="|Custom" class="">Car Loan EMI Calculator</a></li>
+                                                                                    <li><a href="/calculators/fixed-deposit-calculator" tabindex="-1" aria-role="link" title="Fixed Deposit Calculator" target="|Custom" class="">Fixed Deposit Calculator</a></li>
+                                                                                    <li><a href="/calculators/home-loan-eligibility-calculator" tabindex="-1" aria-role="link" title="Home Loan Eligibility Calculator" target="|Custom" class="">Home Loan Eligibility Calculator</a></li>
+                                                                    </ul>
+                                                                </div>
+                                                                <div class="col">
+                                                                    <ul>
+                                                                    </ul>
+                                                                </div>
+                                                                <div class="col">
+                                                                    <ul>
+                                                                    </ul>
+                                                                </div>
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                    </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+            </div>
+        </div>
+        <div class=" bob-footer-nav-links container-fluid">
+            <div class="row">
+                
+
+<div class="row component column-splitter">
+        <div class="col-sm-2">
+            
+<div class="component link-list">
+    <div class="component-content">
+        <h6>About Us</h6>
+                <ul>
+                <li class="item0 odd first">
+<div class="field-link"><a href="/about-us/overview" data-variantitemid="{9EB0E781-8980-43B4-A987-722228FE244B}" data-variantfieldname="Link">Overview</a></div>                </li>
+                <li class="item1 even">
+<div class="field-link"><a href="/about-us/history" data-variantitemid="{26D50743-B8C1-4653-A3A5-09DEC209C64A}" data-variantfieldname="Link">History</a></div>                </li>
+                <li class="item2 odd">
+<div class="field-link"><a href="/about-us/initiative" data-variantitemid="{773BA322-FC75-46B2-92C9-F9583F66CAD6}" data-variantfieldname="Link">Initiative</a></div>                </li>
+                <li class="item3 even">
+<div class="field-link"><a href="/about-us/compliance" data-variantitemid="{19BA535D-4CFC-4017-B7FD-A01D17F5A938}" data-variantfieldname="Link">Compliance</a></div>                </li>
+                <li class="item4 odd">
+<div class="field-link"><a href="/about-us/board-of-directors" data-variantitemid="{8A12628B-AED5-49B8-BAEC-32ADDF68F00E}" data-variantfieldname="Link">Board of Directors</a></div>                </li>
+                <li class="item5 even">
+<div class="field-link"><a href="/about-us/amalgamation-migration/e-vijaya" data-variantitemid="{2B326EA1-A5FF-4A6A-9547-9D05F73462A9}" data-variantfieldname="Link">Amalgamation</a></div>                </li>
+                <li class="item6 odd">
+<div class="field-link"><a href="/about-us/offices-branches" data-variantitemid="{BBCB5CC9-88E9-4430-BA10-5B614C6B0307}" data-variantfieldname="Link">Offices &amp; Branches</a></div>                </li>
+                <li class="item7 even">
+<div class="field-link"><a href="/about-us/social-commitment" data-variantitemid="{67799376-153B-45FE-9D12-285E3B990469}" data-variantfieldname="Link">Social Commitment</a></div>                </li>
+                <li class="item8 odd">
+<div class="field-link"><a href="/about-us/awards" data-variantitemid="{277EAC2F-13F8-4ECD-A5E8-CF4DA2B30732}" data-variantfieldname="Link">Awards</a></div>                </li>
+                <li class="item9 even">
+<div class="field-link"><a href="/green-initiatives-by-bank" data-variantitemid="{9F4B7052-4DF7-4A71-AB2C-5FA3ACD58810}" data-variantfieldname="Link">Green Initiatives by Bank </a></div>                </li>
+                <li class="item10 odd">
+<div class="field-link"><a href="/about-us/subsidiaries-and-joint-ventures" data-variantitemid="{6D1D2932-806E-4B50-B2C9-ABDEA11FFB73}" data-variantfieldname="Link">Subsidiaries and Joint Ventures</a></div>                </li>
+                <li class="item11 even">
+<div class="field-link"><a href="/about-us/baroda-alok-chandra-bravery-award" data-variantitemid="{3AF81DD2-5FC9-4FFF-B951-4A499B745943}" data-variantfieldname="Link">Baroda Alok Chandra Bravery Award</a></div>                </li>
+                <li class="item12 odd">
+<div class="field-link"><a href="/about-us/human-resources" data-variantitemid="{A4061A50-BC4A-4790-AAE6-76BDD3FBCD77}" data-variantfieldname="Link">Human Resources</a></div>                </li>
+                <li class="item13 even last">
+<div class="field-link"><a href="/career" data-variantitemid="{3A274F20-189B-41F2-8859-096330B84886}" data-variantfieldname="Link">Careers</a></div>                </li>
+        </ul>
+    </div>
+</div>
+
+        </div>
+        <div class="col-sm-2">
+            
+<div class="component link-list">
+    <div class="component-content">
+        <h6>Shareholder’s Corner</h6>
+                <ul>
+                <li class="item0 odd first">
+<div class="field-link"><a href="/shareholders-corner" data-variantitemid="{7839D963-1FFB-449C-9B65-60712FCF0579}" data-variantfieldname="Link">Overview</a></div>                </li>
+                <li class="item1 even">
+<div class="field-link"><a href="/shareholders-corner/shareholders-meeting-agm-egm" data-variantitemid="{46D5E6AF-5B5D-4A7F-8B36-651A47CF7DE0}" data-variantfieldname="Link">Shareholders Meeting AGM/EGM</a></div>                </li>
+                <li class="item2 odd">
+<div class="field-link"><a href="/shareholders-corner/disclosures-under-sebi-listing-regulations" data-variantitemid="{4D639964-0BBC-4B9C-8D5C-EC96C1D6EC46}" data-variantfieldname="Link">Stock Exchanges Notifications under SEBI (LODR) Regulations, 2015</a></div>                </li>
+                <li class="item3 even">
+<div class="field-link"><a href="/shareholders-corner/contact-points-shares-and-debentures" data-variantitemid="{4EB1F092-3B3A-473D-818A-36670368EB8A}" data-variantfieldname="Link">Contact Points - Shares &amp; Debentures</a></div>                </li>
+                <li class="item4 odd">
+<div class="field-link"><a href="/shareholders-corner/share-transfer-transmission-services" data-variantitemid="{11E1CA40-38E8-4852-AFDA-9FC516C686B7}" data-variantfieldname="Link">Share Transfer/Transmission Services</a></div>                </li>
+                <li class="item5 even">
+<div class="field-link"><a href="/shareholders-corner/unpaid-dividend" data-variantitemid="{69E7A7B1-BADB-4937-A1E9-6B4296F92912}" data-variantfieldname="Link">Unpaid Dividend</a></div>                </li>
+                <li class="item6 odd">
+<div class="field-link"><a href="/shareholders-corner/unclaimed-interest-principal-on-bank-of-baroda-bonds" data-variantitemid="{1FA38301-D265-47D6-AF30-4A52ECE6C887}" data-variantfieldname="Link">Unclaimed Interest/Principal on Bank of Baroda Bonds</a></div>                </li>
+                <li class="item7 even">
+<div class="field-link"><a href="/shareholders-corner/sustainability-disclosures" data-variantitemid="{FCA943C5-599C-4DC6-9D89-270B9983808A}" data-variantfieldname="Link">Sustainability Disclosures</a></div>                </li>
+                <li class="item8 odd">
+<div class="field-link"><a href="/shareholders-corner/annual-reports" data-variantitemid="{121B30D2-2731-4829-8BA7-7CC699EC2CC3}" data-variantfieldname="Link">Annual Reports</a></div>                </li>
+                <li class="item9 even">
+<div class="field-link"><a href="/shareholders-corner/financial-reports" data-variantitemid="{A19D344B-D34D-4A58-B493-5B5BDB6CE4BB}" data-variantfieldname="Link">Financial Reports</a></div>                </li>
+                <li class="item10 odd">
+<div class="field-link"><a href="/shareholders-corner/presentation-made-to-analyst" data-variantitemid="{9CE03B13-B199-4D9B-AE17-F86A0D545BD4}" data-variantfieldname="Link">Presentation made to Analyst</a></div>                </li>
+                <li class="item11 even">
+<div class="field-link"><a href="/shareholders-corner/shareholding-pattern" data-variantitemid="{1DF2014D-A804-445A-B95F-799D4ABB47D1}" data-variantfieldname="Link">Shareholding Pattern</a></div>                </li>
+                <li class="item12 odd">
+<div class="field-link"><a href="/customer-support/policy-documents" data-variantitemid="{87C96814-1415-44E7-8AC2-3482F15D02C5}" title="Policies Documents" data-variantfieldname="Link">Policies Documents</a></div>                </li>
+                <li class="item13 even last">
+<div class="field-link"><a href="/shareholders-corner/disclosures-under-basel-iii" data-variantitemid="{5CA10FCC-CE02-4B6C-A60F-EB2CD1C60BC2}" data-variantfieldname="Link">Disclosures under Basel III</a></div>                </li>
+        </ul>
+    </div>
+</div>
+
+        </div>
+        <div class="col-sm-2">
+            
+<div class="component link-list">
+    <div class="component-content">
+        <h6>Customer Corner</h6>
+                <ul>
+                <li class="item0 odd first">
+<div class="field-link"><a href="/customer-support/find-important-customer-information" data-variantitemid="{6844A907-C744-4CB1-B3CD-78E43CA228E5}" title="Find Important Customer Information" data-variantfieldname="Link">Find Important Customer Information</a></div>                </li>
+                <li class="item1 even">
+<div class="field-link"><a href="https://m.rbi.org.in/commonperson/English/Scripts/rbikehtahai.aspx" rel="noopener noreferrer" data-variantitemid="{759073BF-FA55-477F-8770-73F8821F82F5}" data-variantfieldname="Link" target="_blank">RBI Kehta Hai</a></div>                </li>
+                <li class="item2 odd">
+<div class="field-link"><a href="/personal-banking/digital-products/doorstep-banking" data-variantitemid="{0C05EF56-B643-4D33-9984-3CC308E3446A}" data-variantfieldname="Link">Doorstep Banking</a></div>                </li>
+                <li class="item3 even">
+<div class="field-link"><a href="/customer-support/find-important-customer-information" data-variantitemid="{F2018DA2-777A-4199-9AC8-26B3017DF4D3}" data-variantfieldname="Link">Customer Care</a></div>                </li>
+                <li class="item4 odd">
+<div class="field-link"><a href="https://bobcrm.bankofbaroda.co.in/onlinecomplaint/" rel="noopener noreferrer" data-variantitemid="{4320A164-1862-4E7B-898A-14806D53C8BD}" data-variantfieldname="Link" target="_blank">Online Complaints/Track Status/ Feedback</a></div>                </li>
+                <li class="item5 even">
+<div class="field-link"><a href="/-/media/project/bob/countrywebsites/india/pdfs2/2024/24-02/holiday-list-02-09.pdf" data-variantitemid="{C9FBBABB-3E06-4377-99AD-7C713E83C3EF}" title="Holidays in India" data-variantfieldname="Link">Holidays in India</a></div>                </li>
+                <li class="item6 odd">
+<div class="field-link"><a href="/customer-corner/central-pension-processing-centre-cppc" data-variantitemid="{F0F671D3-4B02-4248-B49F-3889F7F61CAC}" data-variantfieldname="Link">Central Pension Processing Centre (CPPC)</a></div>                </li>
+                <li class="item7 even">
+<div class="field-link"><a href="/-/media/project/bob/countrywebsites/india/customer-corner/baroda-academy-profile.pdf" rel="noopener noreferrer" data-variantitemid="{A4E7E0CF-9D81-41D4-9294-804CE53A3446}" data-variantfieldname="Link" target="_blank">Baroda Academy</a></div>                </li>
+                <li class="item8 odd">
+<div class="field-link"><a href="/customer-support/right-to-information-act" data-variantitemid="{389567D5-42AB-4255-BF46-715D6EA9AD8C}" data-variantfieldname="Link">Right to Information Act</a></div>                </li>
+                <li class="item9 even">
+<div class="field-link"><a href="/customer-support/periodic-updation-of-kyc" data-variantitemid="{25A20D33-052C-4D5E-B9AA-BB56C86EB0B8}" title="Periodic Updation of KYC (Re-KYC) " data-variantfieldname="Link">Periodic Updation of KYC (Re-KYC) </a></div>                </li>
+                <li class="item10 odd">
+<div class="field-link"><a href="https://bobcrm.bankofbaroda.co.in/otsleadapp/" data-variantitemid="{3E9412FF-89D7-43B6-B370-6B721D9A6DB6}" title="Online OTS" data-variantfieldname="Link">Online OTS</a></div>                </li>
+                <li class="item11 even last">
+<div class="field-link"><a href="/customer-support/central-know-your-customer-ckyc" data-variantitemid="{1FD8239A-1371-4AB5-9F13-31CE00A7EFB1}" data-variantfieldname="Link">Central Know Your Customer (CKYC)</a></div>                </li>
+        </ul>
+    </div>
+</div>
+
+        </div>
+        <div class="col-sm-2">
+            
+<div class="component link-list">
+    <div class="component-content">
+        <h6>Media Centre</h6>
+                <ul>
+                <li class="item0 odd first">
+<div class="field-link"><a href="/media/events" data-variantitemid="{448DAD5F-F624-45DB-9643-C397F7E0FDB3}" title="Events" data-variantfieldname="Link">Events</a></div>                </li>
+                <li class="item1 even">
+<div class="field-link"><a href="/media/news-coverage" data-variantitemid="{57DBDEA7-EC63-4CCC-90FC-9A226DB66A71}" data-variantfieldname="Link">News Coverage</a></div>                </li>
+                <li class="item2 odd">
+<div class="field-link"><a href="/media/podcast" data-variantitemid="{D413A31B-6E14-4135-84AC-C73433170902}" data-variantfieldname="Link">Podcast</a></div>                </li>
+                <li class="item3 even">
+<div class="field-link"><a href="/media/press-releases" data-variantitemid="{0749FDBB-CAC9-424D-AD17-CCD3685BFD44}" data-variantfieldname="Link">Press Releases</a></div>                </li>
+                <li class="item4 odd">
+<div class="field-link"><a href="/media/announcements" data-variantitemid="{76FC629C-854F-4488-9023-6E282F0842E8}" data-variantfieldname="Link">Announcements</a></div>                </li>
+                <li class="item5 even">
+<div class="field-link"><a href="/shareholders-corner/webcast" data-variantitemid="{B0C13FCB-FA65-49BB-9C83-71C048E068CB}" data-variantfieldname="Link">Webcast</a></div>                </li>
+                <li class="item6 odd last">
+<div class="field-link"><a href="/azadi-ka-amrit-mahotsav" data-variantitemid="{1BD91224-0233-4B28-84B6-5ADADB99D0E0}" data-variantfieldname="Link">Azadi Ka Amrit Mahotsav</a></div>                </li>
+        </ul>
+    </div>
+</div>
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6>Locate Us</h6>
+                <ul>
+                <li class="item0 odd first">
+<div class="field-link"><a href="/locate-us/branches" data-variantitemid="{D21FFECB-B260-4C7B-84BC-5F544128AEB6}" data-variantfieldname="Link">Branches</a></div>                </li>
+                <li class="item1 even">
+<div class="field-link"><a href="/locate-us/atms" data-variantitemid="{D4558140-64B1-47D6-A7E5-0EBE7D14EFA0}" data-variantfieldname="Link">ATMs</a></div>                </li>
+                <li class="item2 odd last">
+<div class="field-link"><a href="/locate-us/cash-recycler" data-variantitemid="{B7CACB7A-4AE2-4788-AE8C-F5F8E551FDC1}" data-variantfieldname="Link">Cash Recycler</a></div>                </li>
+        </ul>
+    </div>
+</div>
+
+        </div>
+        <div class="col-sm-2">
+            
+<div class="component link-list">
+    <div class="component-content">
+        <h6>Resources</h6>
+                <ul>
+                <li class="item0 odd first">
+<div class="field-link"><a href="/banking-mantra/articles" data-variantitemid="{D365ECD5-DBC0-407F-BC14-E20C4D32C66D}" data-variantfieldname="Link">Banking Mantra</a></div>                </li>
+                <li class="item1 even">
+<div class="field-link"><a href="/e-auction" data-variantitemid="{BDCF9C2B-206F-422A-A97C-4C536A8B707F}" data-variantfieldname="Link">E-Auction</a></div>                </li>
+                <li class="item2 odd">
+<div class="field-link"><a href="/economic-scenario" data-variantitemid="{B4A47A8E-B650-4F62-AD41-186F6464069F}" data-variantfieldname="Link">Economic Scenario</a></div>                </li>
+                <li class="item3 even">
+<div class="field-link"><a href="/interest-rate-and-service-charges" data-variantitemid="{CF6A4573-DA33-40DC-A2B3-1CE790491155}" data-variantfieldname="Link">Interest Rate &amp; Service Charges</a></div>                </li>
+                <li class="item4 odd">
+<div class="field-link"><a href="/tenders" data-variantitemid="{2169C0A9-5164-4817-9136-70AF3ADA1794}" data-variantfieldname="Link">Tenders</a></div>                </li>
+                <li class="item5 even">
+<div class="field-link"><a href="/download-forms" data-variantitemid="{669CA31E-F75D-427F-A34B-F7CE8AABE888}" data-variantfieldname="Link">Download Forms</a></div>                </li>
+                <li class="item6 odd">
+<div class="field-link"><a href="/faqs" data-variantitemid="{E1E0400E-67D5-4A2B-B2DA-6A88E77D5D23}" data-variantfieldname="Link">FAQs</a></div>                </li>
+                <li class="item7 even last">
+<div class="field-link"><a href="/bank-of-baroda-rajbhasha" data-variantitemid="{63B4CE30-31F6-40E9-A3F9-6DF771B7D79B}" data-variantfieldname="Link">शब्दनाद </a></div>                </li>
+        </ul>
+    </div>
+</div>
+
+<div class="component link-list">
+    <div class="component-content">
+        <h6>Calculators</h6>
+                <ul>
+                <li class="item0 odd first">
+<div class="field-link"><a href="/calculators/personal-loan-emi-calculator" data-variantitemid="{06448F9C-612A-4CFD-9268-B0CECE9D121D}" data-variantfieldname="Link">Personal Loan EMI Calculator</a></div>                </li>
+                <li class="item1 even">
+<div class="field-link"><a href="/calculators/home-loan-emi-calculator" data-variantitemid="{62C21F8A-34EA-4428-BC00-305E2572ED62}" data-variantfieldname="Link">Home Loan EMI Calculator</a></div>                </li>
+                <li class="item2 odd">
+<div class="field-link"><a href="/calculators/fixed-deposit-calculator" data-variantitemid="{716B4AD5-348F-4457-92BF-D45935CACCDB}" data-variantfieldname="Link">Fixed Deposit Calculator</a></div>                </li>
+                <li class="item3 even">
+<div class="field-link"><a href="/calculators/gold-loan-calculator" data-variantitemid="{AB482FE3-848B-4EE5-8ED4-41F98D3249FB}" data-variantfieldname="Link">Gold Loan Calculator</a></div>                </li>
+                <li class="item4 odd last">
+<div class="field-link"><a href="/calculators" data-variantitemid="{8BD1ED7E-AABA-44E5-9F32-909B21E67113}" data-variantfieldname="Link">More Calculators</a></div>                </li>
+        </ul>
+    </div>
+</div>
+
+        </div>
+        <div class="col-sm-2">
+            
+<div class="component link-list">
+    <div class="component-content">
+        <h6>Other Links</h6>
+                <ul>
+                <li class="item0 odd first">
+<div class="field-link"><a href="/other-links/bharat-aadhaar-seeding-enabler" data-variantitemid="{F27CDEF6-F044-4084-8BE6-B8744B89C522}" data-variantfieldname="Link">Bharat Aadhaar Seeding Enabler</a></div>                </li>
+                <li class="item1 even">
+<div class="field-link"><a href="https://udgam.rbi.org.in/unclaimed-deposits/#/login" rel="noopener noreferrer" data-variantitemid="{09496DDD-10AF-43F7-BC91-3CCA75F5E4AA}" data-variantfieldname="Link" target="_blank">UDGAM Portal</a></div>                </li>
+                <li class="item2 odd">
+<div class="field-link"><a href="https://appstack.bankofbaroda.co.in/deceasedclaim" rel="noopener noreferrer" data-variantitemid="{1CDE83A0-182C-4A64-BB29-C8FF2A122E02}" data-variantfieldname="Link" target="_blank">Online Deceased Claim Portal</a></div>                </li>
+                <li class="item3 even">
+<div class="field-link"><a href="/-/media/project/bob/countrywebsites/india/pdfs/bank-of-baroda-employees-pension-regulations-1995-updated-2017-27-13.pdf" rel="noopener noreferrer" data-variantitemid="{1E624D60-3560-4FD2-BC52-D78050011AE1}" data-variantfieldname="Link" target="_blank">Bank of Baroda Employees Pension Regulation, 1995</a></div>                </li>
+                <li class="item4 odd">
+<div class="field-link"><a href="/other-links/code-of-banks-commitment-to-micro-small-enterprises" data-variantitemid="{18EABD82-B6E8-4D2A-A692-0195F894D38D}" data-variantfieldname="Link">Code of Banks commitment to Micro &amp; Small Enterprises</a></div>                </li>
+                <li class="item5 even">
+<div class="field-link"><a href="/other-links/code-of-banks-commitment-to-customers" data-variantitemid="{E8C0059D-3C2A-4314-95F1-4F846E862A5E}" data-variantfieldname="Link">Code of Bank’s Commitment to Customers</a></div>                </li>
+                <li class="item6 odd">
+<div class="field-link"><a href="/other-links/central-scheme-of-interest-subsidy-for-education-loans" data-variantitemid="{427E6805-C93A-46B9-8FED-2B5982BC77EC}" data-variantfieldname="Link">Central Scheme of Interest Subsidy for Education Loan</a></div>                </li>
+                <li class="item7 even">
+<div class="field-link"><a href="https://bankapps.bankofbaroda.co.in/inopacc/" rel="noopener noreferrer" data-variantitemid="{1C9E51E1-F4D3-4A60-924C-552831E75DF6}" data-variantfieldname="Link" target="_blank">List of Inoperative Accounts</a></div>                </li>
+                <li class="item8 odd">
+<div class="field-link"><a href="/list-of-inoperative-accounts-e-db" data-variantitemid="{5A46954A-D248-466C-AB1C-FAFAB4C543B8}" data-variantfieldname="Link" target="|Custom">List of Inoperative Accounts (e-Dena) </a></div>                </li>
+                <li class="item9 even">
+<div class="field-link"><a href="/list-of-inoperative-accounts-e-vijaya" data-variantitemid="{E52818E6-082C-45CD-8165-F5163DBBE5CA}" title="List of Inoperative Accounts (e-Vijaya)" data-variantfieldname="Link" target="|Custom">List of Inoperative Accounts (e-Vijaya)</a></div>                </li>
+                <li class="item10 odd">
+<div class="field-link"><a href="/other-links/dea-fund-claim-procedure" data-variantitemid="{7A0B1854-7EB1-456A-9B35-C8E072BE5266}" title="DEAF Claim Procedure" data-variantfieldname="Link">DEA FUND Claim Procedure</a></div>                </li>
+                <li class="item11 even">
+<div class="field-link"><a href="/writereaddata/images/pdf/whistle-blower-guidelines-for-website.pdf" data-variantitemid="{EBAF27FC-080F-402F-84D0-D447E606612E}" data-variantfieldname="Link">Whistle Blower guidelines</a></div>                </li>
+                <li class="item12 odd last">
+<div class="field-link"><a href="/customer-support?scroll=reportsection" data-variantitemid="{F25FA488-9FBE-4F6A-9E8F-7ABD25332E91}" title="Report suspicious/fraud transaction" data-variantfieldname="Link">Report suspicious/fraud transaction</a></div>                </li>
+        </ul>
+    </div>
+</div>
+
+        </div>
+</div>
+            </div>
+        </div>
+        <div class=" bob-news-social-group-div container-fluid">
+            <div class="row">
+                <div class="component plain-html col-sm-4">
+    <div class="component-content">
+        <h6>Subscribe to our Newsletter</h6>
+        <form id="formNewsLetter">
+            <div class="bob-newsletter-div input-group">
+                <input type="text" class="form-control" placeholder="Type your Email ID" id="txtEmailId" aria-label="Type your Email ID" tabindex="0" role="textbox">
+                <a class="bob-button bob-submit-button input-group-append" id="btnsubmit" onclick="SubmitRequestSubscribeNewsLetter();"><span id="btnSumbitText" role="button" tabindex="0" data-submit="Submit" data-submitting="Submiting">Submit</span></a>
+            </div>
+            <small id="err_subscribenews_letter_emailid" class="errorMessage"></small>
+        </form>
+
+        <div class="FormThankYouMsg" id="successMsgNewsletter" style=" display:none">
+            <h3>
+                <strong>
+                    Thank you !
+                </strong>
+                We have received your subscription request.
+            </h3>
+        </div>
+    </div>
+</div><div class="component plain-html col-sm-4">
+    <div class="component-content">
+<h6>Connect with Us</h6>
+<ul class="bob-social-icons">
+    <li>
+        <a href="https://www.facebook.com/bankofbaroda/?ref=hl" target="_blank" tabindex="0" aria-label="Facebook" arial-role="link" rel="nofollow">
+            <svg class="bob-fb-svg" xmlns="http://www.w3.org/2000/svg" width="35.202" height="35.202" viewBox="0 0 35.202 35.202" fill="#F26522"><linearGradient x1="50%" x2="50%" y1="97.0782153%" y2="0%" id="bob-fb-hover"><stop offset="0%" stop-color="#0062E0"></stop><stop offset="100%" stop-color="#19AFFF"></stop></linearGradient><path d="M-105.4-122a17.6,17.6,0,0,1,17.6,17.6,17.6,17.6,0,0,1-17.6,17.6A17.6,17.6,0,0,1-123-104.4,17.6,17.6,0,0,1-105.4-122Z" transform="translate(123 122)"/><path class="b" d="M-7.137-46.19h2.327v-3.263H-7.545v.012c-3.315.111-3.995,1.88-4.054,3.738h-.007v1.63h-2.257v3.2h2.257v8.567h3.4v-8.567h2.787l.538-3.2H-8.2v-.985A1.075,1.075,0,0,1-7.137-46.19Z" transform="translate(26.937 58.448)" fill="#fff"/></svg>
+        </a>
+    </li>
+    <li>
+        <a href="https://www.instagram.com/officialbankofbaroda/" target="_blank" tabindex="0" aria-label="Instagram" arial-role="link" rel="nofollow">
+            <svg class="bob-insta-svg" xmlns="http://www.w3.org/2000/svg" width="35.202" height="35.202" viewBox="0 0 35.202 35.202" fill="#F26522"><radialGradient id="bob-insta-hover" r="150%" cx="30%" cy="107%"><stop stop-color="#fdf497" offset="0"></stop><stop stop-color="#fdf497" offset="0.05"></stop><stop stop-color="#fd5949" offset="0.45"></stop><stop stop-color="#d6249f" offset="0.6"></stop><stop stop-color="#285AEB" offset="0.9"></stop></radialGradient><path d="M213.738,210.369A3.369,3.369,0,1,1,210.369,207,3.369,3.369,0,0,1,213.738,210.369Z" transform="translate(-192.768 -192.768)"/><path d="M151.649,137.813a3.347,3.347,0,0,0-1.918-1.918,5.592,5.592,0,0,0-1.877-.348c-1.066-.049-1.386-.059-4.084-.059s-3.018.01-4.084.059a5.6,5.6,0,0,0-1.876.348,3.348,3.348,0,0,0-1.918,1.918,5.6,5.6,0,0,0-.348,1.877c-.049,1.066-.059,1.385-.059,4.084s.011,3.018.059,4.084a5.593,5.593,0,0,0,.348,1.876,3.347,3.347,0,0,0,1.918,1.918,5.587,5.587,0,0,0,1.877.348c1.066.049,1.385.059,4.084.059s3.019-.01,4.084-.059a5.587,5.587,0,0,0,1.877-.348,3.347,3.347,0,0,0,1.918-1.918,5.6,5.6,0,0,0,.348-1.876c.049-1.066.059-1.386.059-4.084s-.01-3.018-.059-4.084A5.585,5.585,0,0,0,151.649,137.813Zm-7.879,11.15a5.19,5.19,0,1,1,5.19-5.19A5.19,5.19,0,0,1,143.77,148.963Zm5.4-9.372a1.213,1.213,0,1,1,1.213-1.213A1.213,1.213,0,0,1,149.165,139.591Z" transform="translate(-126.169 -126.173)"/><path d="M17.6,0A17.6,17.6,0,1,0,35.2,17.6,17.6,17.6,0,0,0,17.6,0ZM27.647,21.768a7.415,7.415,0,0,1-.47,2.453,5.168,5.168,0,0,1-2.956,2.956,7.42,7.42,0,0,1-2.453.47c-1.078.049-1.422.061-4.167.061s-3.089-.012-4.167-.061a7.42,7.42,0,0,1-2.453-.47,5.168,5.168,0,0,1-2.956-2.956,7.413,7.413,0,0,1-.47-2.453c-.05-1.078-.061-1.422-.061-4.167s.012-3.089.061-4.167a7.416,7.416,0,0,1,.469-2.453,5.171,5.171,0,0,1,2.956-2.956,7.422,7.422,0,0,1,2.453-.47c1.078-.049,1.422-.061,4.167-.061s3.089.012,4.167.061a7.424,7.424,0,0,1,2.453.469,5.169,5.169,0,0,1,2.956,2.956,7.414,7.414,0,0,1,.47,2.453c.049,1.078.061,1.422.061,4.167S27.7,20.69,27.647,21.768Z"/></svg>
+        </a>
+    </li>
+    <li>
+        <a href="https://www.linkedin.com/company/bankofbaroda/" target="_blank" tabindex="0" aria-label="LinkedIn" arial-role="link" rel="nofollow">
+            <svg class="bob-ind-svg" xmlns="http://www.w3.org/2000/svg" width="35.202" height="34.798" viewBox="0 0 35.202 34.798" fill="#F26522"><path d="M17.6,0A17.5,17.5,0,0,0,0,17.4,17.5,17.5,0,0,0,17.6,34.8,17.5,17.5,0,0,0,35.2,17.4,17.5,17.5,0,0,0,17.6,0ZM12.486,26.3H8.2V13.554h4.287ZM10.343,11.813h-.028a2.211,2.211,0,1,1,.056-4.405,2.212,2.212,0,1,1-.029,4.405ZM27.943,26.3H23.657v-6.82c0-1.714-.621-2.883-2.172-2.883a2.344,2.344,0,0,0-2.2,1.55,2.87,2.87,0,0,0-.141,1.034V26.3H14.859s.056-11.553,0-12.749h4.286v1.805a4.263,4.263,0,0,1,3.863-2.1c2.82,0,4.935,1.822,4.935,5.738Z"/></svg>
+        </a>
+    </li>
+    <li>
+        <a href="https://twitter.com/bankofbaroda" target="_blank" tabindex="0" aria-label="Twitter" arial-role="link" rel="nofollow">
+            <!-- <svg class="bob-tw-svg" xmlns="http://www.w3.org/2000/svg" width="35.202" height="34.798" viewBox="0 0 35.202 34.798" fill="#F26522"><path d="M17.6,0A17.5,17.5,0,0,0,0,17.4,17.5,17.5,0,0,0,17.6,34.8,17.5,17.5,0,0,0,35.2,17.4,17.5,17.5,0,0,0,17.6,0Zm8.036,13.566q.012.257.012.516A11.347,11.347,0,0,1,14.154,25.445h0a11.531,11.531,0,0,1-6.192-1.794,8.309,8.309,0,0,0,.964.055A8.166,8.166,0,0,0,13.943,22a4.039,4.039,0,0,1-3.774-2.774,4.07,4.07,0,0,0,1.825-.069A4.007,4.007,0,0,1,8.753,15.24c0-.018,0-.034,0-.051a4.048,4.048,0,0,0,1.83.5,3.967,3.967,0,0,1-1.251-5.332,11.514,11.514,0,0,0,8.327,4.173,3.945,3.945,0,0,1-.105-.911,4.051,4.051,0,0,1,6.989-2.731,8.162,8.162,0,0,0,2.565-.969,4.018,4.018,0,0,1-1.777,2.209,8.129,8.129,0,0,0,2.32-.629A8.159,8.159,0,0,1,25.637,13.566Z"/></svg> -->
+            <svg class="bob-tw-svg" width="35.202" height="34.798" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+            viewBox="0 0 35.2 35.2" style="enable-background:new 0 0 35.2 35.2;" xml:space="preserve">
+       <style type="text/css">
+           .st0{fill:#F26522;}
+           .st1{fill:#FFFFFF;}
+       </style>
+       <path class="st0" d="M17.6,0c9.7,0,17.6,7.9,17.6,17.6l0,0c0,9.7-7.9,17.6-17.6,17.6l0,0C7.9,35.2,0,27.3,0,17.6c0,0,0,0,0,0
+           C0,7.9,7.9,0,17.6,0C17.6,0,17.6,0,17.6,0z"/>
+       <path class="st1" d="M19.4,16.2l6.9-8h-1.6l-6,6.9l-4.8-6.9H8.4l7.2,10.5L8.4,27H10l6.3-7.3l5,7.3h5.5L19.4,16.2L19.4,16.2z
+            M17.1,18.7l-0.7-1l-5.8-8.3h2.5l4.7,6.7l0.7,1l6.1,8.7h-2.5L17.1,18.7L17.1,18.7z"/>
+       </svg>
+            
+        </a>
+    </li>
+    <li>
+        <a href="https://www.youtube.com/bankofbaroda" target="_blank" tabindex="0" aria-label="Youtube" arial-role="link" rel="nofollow">
+            <svg class="bob-yt-svg" xmlns="http://www.w3.org/2000/svg" width="35.202" height="34.798" viewBox="0 0 35.202 34.798" fill="#F26522"><path d="M224.113,214.634l5.725-3.3-5.725-3.3Z" transform="translate(-208.704 -193.937)"/><path d="M17.6,0A17.5,17.5,0,0,0,0,17.4,17.5,17.5,0,0,0,17.6,34.8,17.5,17.5,0,0,0,35.2,17.4,17.5,17.5,0,0,0,17.6,0Zm11,17.417a28.4,28.4,0,0,1-.453,5.23,2.74,2.74,0,0,1-1.939,1.916c-1.721.448-8.606.448-8.606.448s-6.867,0-8.606-.466a2.741,2.741,0,0,1-1.939-1.917A28.27,28.27,0,0,1,6.6,17.4a28.376,28.376,0,0,1,.453-5.23,2.8,2.8,0,0,1,1.939-1.934c1.721-.448,8.606-.448,8.606-.448s6.885,0,8.606.466a2.741,2.741,0,0,1,1.939,1.917A26.944,26.944,0,0,1,28.6,17.417Z"/></svg>
+        </a>
+    </li>
+    <li>
+        <a href="https://www.quora.com/profile/Bank-of-Baroda-29" target="_blank" tabindex="0" aria-label="Quora" arial-role="link" rel="nofollow">
+            <svg class="bob-qa-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" width="35.202" height="34.798" viewBox="0 0 1080 1080" style="enable-background:new 0 0 1080 1080;" xml:space="preserve">
+                <style type="text/css">
+                    .bob-qa-svg .st0{fill:#F26623;}
+                    .bob-qa-svg .st1{fill:#FEFCFC;}
+                    .dark-mode .bob-social-icons .bob-qa-svg .st0
+                    {fill:#ff0}
+                    .dark-mode .bob-social-icons .bob-qa-svg .st1
+                    {fill:#000}
+                </style>
+                <circle class="st0" cx="540" cy="540" r="539.63"/>
+                <path class="st1" d="M233,501.41C231.02,360.8,334.09,247.4,464.55,224.22c150.64-26.76,296.3,73.32,322.67,224.48  c18.28,104.79-13.73,194.06-94.74,264.38c-5.72,4.97-6.65,7.77-1.92,13.99c14.63,19.25,30.23,36.92,54.73,43.65  c32.11,8.82,59.04-6.08,67.62-37.98c1.23-4.58,2.88-5.6,7-5.47c6.85,0.23,13.74,0.4,20.57-0.05c5.27-0.34,6.91,1.87,6.68,6.65  c-1.57,32.88-9.51,63.63-31.4,89.22c-21.04,24.6-48.9,34.9-80.51,36.71c-62.99,3.6-106.51-26.96-138.08-78.56  c-7.86-12.85-7.87-12.85-22.84-9.38c-152.12,35.18-306.24-64.67-336.73-218.32C234.04,535.71,232.22,517.61,233,501.41z   M644.56,645.76c3.81-6.57,5.77-13.09,7.81-19.56c15.12-47.84,17.17-97.13,15.95-146.72c-1.04-42.44-5.56-84.38-21.52-124.23  c-16.58-41.37-44.67-70.57-88.91-81.89c-26.64-6.82-53.68-7.39-80.61-2.24c-34.63,6.62-62.3,24.18-81.76,54.09  c-11.48,17.65-19.1,36.87-24.5,57.1c-12.21,45.69-13.46,92.37-12.4,139.22c0.84,37.02,5.11,73.59,16.25,109.12  c31.07,99.08,116.38,110.82,186.71,93.27c3.7-0.92,5.87-1.68,3.53-6.49c-10.58-21.71-21.72-43.06-37.45-61.6  c-22.35-26.33-50.27-38.18-84.94-32.07c-5.15,0.91-10.82,6.35-14.66,3.64c-4-2.84-4.71-9.97-7.68-14.71  c-4.51-7.18-2.39-11.34,4.27-15.79c48.07-32.16,136.84-41.07,192.88,16.4C627.27,623.3,635.81,634.22,644.56,645.76z"/>
+                </svg></a>
+    </li>
+</ul>    </div>
+</div><div class="component plain-html col-sm-4">
+    <div class="component-content">
+<h6>Subsidiaries, JV, RRB & International</h6>
+<div class="bob-footer-group-drop-div">
+    <div class="form-group bob-form-control bob-logincc-div" data-cust-p="#grp-website-id">
+        <span type="text" class="form-control bob-cust-drop-click" placeholder="Group Websites" aria-label="Group Websites" >
+        Group Websites
+        </span>
+        <div class="bob-custom-drop-popup-div" id="grp-website-id">
+              <svg xmlns="http://www.w3.org/2000/svg" width="17.121" height="17.121" viewBox="0 0 17.121 17.121" class="closed-pp">
+                <path fill="#F26522" stroke="#F26522" stroke-width="0.1px" d="M15 .884L14.116 0 7.5 6.616.884 0 0 .884 6.616 7.5 0 14.116.884 15 7.5 8.384 14.116 15l.884-.884L8.384 7.5z" transform="translate(1.061 1.061)"></path>
+            </svg>            <h3>Group Websites</h3>
+            <ul class=" link-ul-p">
+                <li>
+                    <a href="https://www.bobfinancial.com/" target="_blank" rel="nofollow" aria-role="link" tabindex="-1" aria-label = "BOB Financial Solutions Limited">
+                        BOB Financial Solutions Limited 
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.bobcaps.in/" target="_blank" rel="nofollow" aria-role="link" tabindex="-1" aria-label = "BOB Capital Markets Ltd.">
+                        BOB Capital Markets Ltd. 
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.nainitalbank.co.in/english/home.aspx" target="_blank" rel="nofollow" aria-role="link" tabindex="-1" aria-label = "Nainital Bank Ltd. ">
+                        Nainital Bank Ltd. 
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.indiafirstlife.com/" target="_blank" rel="nofollow" aria-role="link" tabindex="-1" aria-label = "IndiaFirst Life Insurance Company Limited">
+                        IndiaFirst Life Insurance Company Limited 
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.infradebt.in/" target="_blank" rel="nofollow" aria-role="link" tabindex="-1" aria-label = "India Infradebt Ltd.">
+                        India Infradebt Ltd. 
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.barodabnpparibasmf.in/" target="_blank" rel="nofollow" aria-role="link" tabindex="-1" aria-label = "Baroda BNP Paribas Mutual Fund.">
+                        Baroda BNP Paribas Mutual Fund.
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.bgss.in/" target="_blank" rel="nofollow" aria-role="link" tabindex="-1" aria-label = "Baroda Global Shared Services Ltd.">
+                        Baroda Global Shared Services Ltd.
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.barodagraminbank.com/" target="_blank" rel="nofollow" aria-role="link" tabindex="-1" aria-label = "Baroda Uttar Pradesh Gramin Bank">
+                        Baroda Uttar Pradesh Gramin Bank 
+                    </a>
+                </li>
+                <li>
+                    <a href="https://brkgb.com/" target="_blank" rel="nofollow" aria-role="link" tabindex="-1" aria-label = "Baroda Rajasthan Gramin Bank">
+                        Baroda Rajasthan Gramin Bank 
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.bggb.in/" target="_blank" rel="nofollow" aria-role="link" tabindex="-1" aria-label = "Baroda Gujarat Gramin Bank">
+                        Baroda Gujarat Gramin Bank
+                    </a>
+                </li>
+
+            </ul>
+        </div>
+    </div>
+    <div class="form-group bob-form-control bob-logincc-div" data-cust-p="#country-website-id">
+        <span type="text" class="form-control bob-cust-drop-click" placeholder="Country Websites" aria-label="Country Websites" >
+        Country Websites
+        </span>
+
+        <div class="bob-custom-drop-popup-div" id="country-website-id">
+            <svg xmlns="http://www.w3.org/2000/svg" width="17.121" height="17.121" viewBox="0 0 17.121 17.121" class="closed-pp">
+                <path fill="#F26522" stroke="#F26522" stroke-width="0.1px" d="M15 .884L14.116 0 7.5 6.616.884 0 0 .884 6.616 7.5 0 14.116.884 15 7.5 8.384 14.116 15l.884-.884L8.384 7.5z" transform="translate(1.061 1.061)"></path>
+            </svg>
+            <h3>Country Websites</h3>
+<ul class="split-ul-p  link-ul-p">
+<li>
+<a href="https://www.bankofbaroda.com.au/" target="_blank" rel="nofollow" aria-role="link" tabindex="-1" aria-label = "Australia">
+    <img data-src="/-/media/Project/BOB/CountryWebsites/India/icons/country-img/22.png" width = "13" height= "13" alt="">Australia
+</a>
+</li>
+<li>
+<a href="http://www.bankofbaroda.co.bw/" target="_blank" rel="nofollow" aria-role="link" tabindex="-1" aria-label = "Botswana">
+    <img data-src="/-/media/Project/BOB/CountryWebsites/India/icons/country-img/4.png" width = "13" height= "13" alt="Botswana">Botswana
+</a>
+</li>
+<li>
+<a href="https://www.bankofbaroda-fiji.com/" target="_blank" rel="nofollow" aria-role="link" tabindex="-1" aria-label = "Fiji Islands">
+    <img data-src="/-/media/Project/BOB/CountryWebsites/India/icons/country-img/2.png" width = "13" height= "13" alt="Fiji Islands">Fiji Islands
+</a>
+</li>
+<li>
+<a href="https://bankofbaroda.gy/" target="_blank" rel="nofollow" aria-role="link" tabindex="-1" aria-label = "Guyana">
+    <img data-src="/-/media/Project/BOB/CountryWebsites/India/icons/country-img/5.png" width = "13" height= "13" alt="Guyana">Guyana
+</a>
+</li>
+<!-- <li>
+<a href="http://www.bankofbaroda.hk/" target="_blank" rel="nofollow" aria-role="link" tabindex="-1" aria-label = "Hong Kong">
+    <img data-src="/-/media/Project/BOB/CountryWebsites/India/icons/country-img/1.png" width = "13" height= "13" alt="Hong Kong">Hong Kong
+</a>
+</li> -->
+<li>
+<a href="https://bankofbarodakenya.co.ke/" target="_blank" rel="nofollow" aria-role="link" tabindex="-1" aria-label = "Kenya">
+    <img data-src="/-/media/Project/BOB/CountryWebsites/India/icons/country-img/12.png" width = "13" height= "13" alt="Kenya">Kenya
+</a>
+</li>
+<li>
+<a href="https://www.indiainternationalbank.com.my/" target="_blank" rel="nofollow" aria-role="link" tabindex="-1" aria-label = "Malaysia">
+    <img data-src="/-/media/Project/BOB/CountryWebsites/India/icons/country-img/14.png" width = "13" height= "13" alt="Malaysia">Malaysia
+</a>
+</li>
+<li>
+<a href="https://www.bankofbaroda-mu.com/" target="_blank" rel="nofollow" aria-role="link" tabindex="-1" aria-label = "Mauritius">
+    <img data-src="/-/media/Project/BOB/CountryWebsites/India/icons/country-img/10.png" width = "13" height= "13" alt="Mauritius">Mauritius
+</a>
+</li>
+<li>
+<a href="http://www.barodanzltd.co.nz/" target="_blank" rel="nofollow" aria-role="link" tabindex="-1" aria-label = "New Zealand">
+    <img data-src="/-/media/Project/BOB/CountryWebsites/India/icons/country-img/13.png" width = "13" height= "13" alt="New Zealand">New Zealand
+</a>
+</li>
+<li>
+<a href="https://www.bankofbaroda.sc/" target="_blank" rel="nofollow" aria-role="link" tabindex="-1" aria-label = "Seychelles">
+    <img data-src="/-/media/Project/BOB/CountryWebsites/India/icons/country-img/23.png" width = "13" height= "13" alt="Seychelles">Seychelles
+</a>
+</li>
+<li>
+<a href="http://www.bankofbaroda.com.sg/" target="_blank" rel="nofollow" aria-role="link" tabindex="-1" aria-label = "Singapore">
+    <img data-src="/-/media/Project/BOB/CountryWebsites/India/icons/country-img/11.png" width = "13" height= "13" alt="Singapore">Singapore
+</a>
+</li>
+<li>
+<a href="https://bankofbarodaoman.com/" target="_blank" rel="nofollow" aria-role="link" tabindex="-1" aria-label = "Sultanate of Oman">
+    <img data-src="/-/media/Project/BOB/CountryWebsites/India/icons/country-img/8.png" width = "13" height= "13" alt="Sultanate of Oman">Sultanate of Oman
+</a>
+</li>
+<li>
+<a href="https://bankofbaroda.co.tz/" target="_blank" rel="nofollow" aria-role="link" tabindex="-1" aria-label = "Tanzania">
+    <img data-src="/-/media/Project/BOB/CountryWebsites/India/icons/country-img/21.png" width = "13" height= "13" alt="Tanzania">Tanzania
+</a>
+</li>
+<li>
+<a href="https://www.bankofbaroda.ug/" target="_blank" rel="nofollow" aria-role="link" tabindex="-1" aria-label = "Uganda">
+    <img data-src="/-/media/Project/BOB/CountryWebsites/India/icons/country-img/20.png" width = "13" height= "13" alt="Uganda">Uganda
+</a>
+</li>
+<li>
+<a href="https://www.bankofbarodauae.ae/" target="_blank" rel="nofollow" aria-role="link" tabindex="-1" aria-label = "United Arab Emirates">
+    <img data-src="/-/media/Project/BOB/CountryWebsites/India/icons/country-img/3.png" width = "13" height= "13" alt="United Arab Emirates">United Arab Emirates
+</a>
+</li>
+<li>
+<a href="https://www.bankofbarodauk.com/" target="_blank" rel="nofollow" aria-role="link" tabindex="-1" aria-label = "UK Subsidiary">
+    <img data-src="/-/media/Project/BOB/CountryWebsites/India/icons/country-img/17.png" width = "13" height= "13" alt="UK Subsidiary">UK Subsidiary
+</a>
+</li>
+<li>
+<a href="https://london.bankofbaroda.in" target="_blank" rel="nofollow" aria-role="link" tabindex="-1" aria-label = "UK Wholesale">
+    <img data-src="/-/media/Project/BOB/CountryWebsites/India/icons/country-img/17.png" width = "13" height= "13" alt="UK Wholesale">UK Wholesale
+</a>
+</li>
+<li>
+<a href="http://www.bankofbaroda-usa.com/" target="_blank" rel="nofollow" aria-role="link" tabindex="-1" aria-label = "USA">
+    <img data-src="/-/media/Project/BOB/CountryWebsites/India/icons/country-img/9.png" width = "13" height= "13" alt="USA">USA
+</a>
+</li>
+<!--<li>
+<a href="#" target="_blank" rel="nofollow" aria-role="link" tabindex="-1" aria-label = "Republic of South Africa">
+    <img data-src="/-/media/Project/BOB/CountryWebsites/India/icons/country-img/15.png" width = "13" height= "13" alt="Republic of South Africa">Republic of South Africa
+</a>
+</li>-->
+<li>
+<a href="https://www.izb.co.zm/english/home.aspx" target="_blank" rel="nofollow" aria-role="link" tabindex="-1" aria-label = "Zambia">
+    <img data-src="/-/media/Project/BOB/CountryWebsites/India/icons/country-img/16.png" width = "13" height= "13" alt="Zambia">Zambia
+</a>
+</li>
+<li><a href="https://ifsc.bankofbaroda.in/" target="_blank" rel="nofollow noopener noreferrer" aria-role="link" tabindex="-1" aria-label="BOB IFSC Banking Unit">
+                       <img width="13" height="13" alt="BOB IFSC Banking Unit" src="/-/media/Project/BOB/shared/icons/country-img/00.png">BOB IFSC Banking Unit
+                   </a>
+</li>
+</ul>
+        </div>
+    </div>
+</div>    </div>
+</div>
+            </div>
+        </div>
+        <div class=" bob-copyright-div container-fluid">
+            <div class="row">
+                
+<div class="component link-list col-sm-8">
+    <div class="component-content">
+        
+                <ul>
+                <li class="item0 odd first">
+<div class="field-link"><a href="/cookie-policy" data-variantitemid="{ED24B8CA-0156-4599-A6F5-51822CA9B4B1}" data-variantfieldname="Link">Cookie Policy</a></div>                </li>
+                <li class="item1 even">
+<div class="field-link"><a href="/disclaimer" data-variantitemid="{703F1836-9735-4827-B56C-00AAC8D69284}" data-variantfieldname="Link">Disclaimer</a></div>                </li>
+                <li class="item2 odd">
+<div class="field-link"><a href="/privacy-policy" data-variantitemid="{EB356996-6E83-487A-A5FF-5799D9C0F240}" data-variantfieldname="Link">Privacy Policy</a></div>                </li>
+                <li class="item3 even last">
+<div class="field-link"><a href="/terms-and-conditions" data-variantitemid="{E4526C1F-68A6-4F0E-949C-846CC74FF649}" data-variantfieldname="Link">Terms &amp; Conditions</a></div>                </li>
+        </ul>
+    </div>
+</div>
+
+
+    <div class="component rich-text col-sm-4">
+        <div class="component-content">
+<p>Copyright © 2023 Bank of Baroda. All rights reserved</p>        </div>
+    </div>
+
+            </div>
+        </div>
+</div>
+
+    <div class="component rich-text col-12" id="footer-overlay-bottom">
+        <div class="component-content">
+<div class="bob-overlay"></div>
+<div class="fd-popup-div">
+    <div class="fd-bob-popup-content">
+        <div class="fd-bob-closed-btn">
+            <svg xmlns="http://www.w3.org/2000/svg" width="17.121" height="17.121" viewbox="0 0 17.121 17.121" class="closed-pp">
+                    <path fill="#F26522" stroke="#F26522" stroke-width="0.1px" d="M15 .884L14.116 0 7.5 6.616.884 0 0 .884 6.616 7.5 0 14.116.884 15 7.5 8.384 14.116 15l.884-.884L8.384 7.5z" transform="translate(1.061 1.061)"></path>
+                </svg>
+        </div>
+        <div class="fd-bob-popup-inner-content-div">
+            <div class="fd-stage1">
+                <h3>
+                    Are you Bank of Baroda Customer?
+                </h3>
+                <div class="fd-bob-e-auction-filter-btn-div">
+                    <a class="bob-comman-btn fd-yes-btn-a">
+                        Yes
+                    </a>
+                   <a class="bob-comman-btn bob-comman-white-btn fd-no-btn-a ">
+                        No
+                    </a> 
+                </div>
+            </div>
+            <div class="fd-stage2">
+                <h3>
+                   Open FD Account
+                </h3>
+                <div class="fd-bob-e-auction-filter-btn-div">
+                    <a class="bob-comman-btn" href="https://play.google.com/store/apps/details?id=com.bankofbaroda.mconnect">
+                        bob world Mobile Banking
+                    </a>
+                   <a class="bob-comman-btn bob-comman-white-btn " href="https://feba.bobibanking.com/corp/AuthenticationController?FORMSGROUP_ID__=AuthenticationFG&__START_TRAN_FLAG__=Y&FG_BUTTONS__=LOAD&ACTION.LOAD=Y&AuthenticationFG.LOGIN_FLAG=1&BANK_ID=012">
+                    bob world Internet Banking
+                    </a> 
+                </div>
+
+               
+            </div>
+            <div class="fd-stage3">
+                <h3>
+                    Do you also want to Open Saving Account with us?
+                </h3>
+                <div class="fd-bob-e-auction-filter-btn-div">
+                    <a class="bob-comman-btn fd-yes-btn-a">
+                        Yes
+                    </a>
+                   <a class="bob-comman-btn bob-comman-white-btn fd-no-btn-a ">
+                        No
+                    </a> 
+                </div>
+            </div>
+            <div class="fd-stage4">
+              <p>Please Choose Saving Account which best suits your need
+            </p>
+    
+ <p><a class="insurance-external-anchor bob-comman-btn" href="/personal-banking/accounts/saving-accounts" target="_blank">Choose Saving Accounts</a></p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="bob-popup-common-div saving-vcip-popup-div">
+    <div class="bob-popup-content">
+        <div class="bob-closed-btn">
+            <svg xmlns="http://www.w3.org/2000/svg" width="17.121" height="17.121" viewbox="0 0 17.121 17.121">
+                <path fill="#fff" stroke="#fff" stroke-width="1.5px" d="M15 .884L14.116 0 7.5 6.616.884 0 0 .884 6.616 7.5 0 14.116.884 15 7.5 8.384 14.116 15l.884-.884L8.384 7.5z" transform="translate(1.061 1.061)"></path>
+            </svg>
+        </div>
+        <div class="bob-popup-inner-content-div">
+            <h3>
+             Please Select Constitution
+            </h3>
+        
+            <div class="bob-cal-bbutton-div">
+                <div class="form-group bob-form-control bob-check-radio-form-control bob-radio-form-control">
+                    <input class="form-check-input" type="radio" id="radio01" value="1" name="radioCustm" checked="checked" />
+                    <label class="form-check-label" for="radio01">Single Name Account</label>
+                </div>
+                <div class="form-group bob-form-control bob-check-radio-form-control bob-radio-form-control">
+                    <input class="form-check-input" type="radio" id="radio02" value="2" name="radioCustm" />
+                    <label class="form-check-label" for="radio02">Joint Account </label>
+                </div>
+                <div class="form-group bob-form-control bob-check-radio-form-control bob-radio-form-control">
+                    <input class="form-check-input" type="radio" id="radio03" value="2" name="radioCustm" />
+                    <label class="form-check-label" for="radio03">Govt. Dept. / Agency</label>
+                </div>
+                <div class="form-group bob-form-control bob-check-radio-form-control bob-radio-form-control">
+                    <input class="form-check-input" type="radio" id="radio04" value="2" name="radioCustm" />
+                    <label class="form-check-label" for="radio04">All Institutions</label>
+                </div>
+                <div class="form-group bob-form-control bob-check-radio-form-control bob-radio-form-control">
+                    <input class="form-check-input" type="radio" id="radio05" value="2" name="radioCustm" />
+                    <label class="form-check-label" for="radio05">Minor</label>
+                </div>
+                <div class="form-group bob-form-control bob-check-radio-form-control bob-radio-form-control">
+                    <input class="form-check-input" type="radio" id="radio06" value="2" name="radioCustm" />
+                    <label class="form-check-label" for="radio06">Trust/Association/Society/Club</label>
+                </div>
+                <div class="form-group bob-form-control bob-check-radio-form-control bob-radio-form-control">
+                    <input class="form-check-input" type="radio" id="radio07" value="2" name="radioCustm" />
+                    <label class="form-check-label" for="radio07">Others </label>
+                </div>
+               
+            </div>
+        
+            
+            <div class="bob-e-auction-filter-btn-div">
+                <a class="bob-comman-btn" target="_blank" tabindex="-1" aria-label="Yes" role="link">
+                   Continue
+                </a>
+              
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="bob-popup-common-div vcip-popup-div">
+    <div class="bob-popup-content">
+        <div class="bob-closed-btn">
+            <svg xmlns="http://www.w3.org/2000/svg" width="17.121" height="17.121" viewbox="0 0 17.121 17.121">
+                <path fill="#fff" stroke="#fff" stroke-width="1.5px" d="M15 .884L14.116 0 7.5 6.616.884 0 0 .884 6.616 7.5 0 14.116.884 15 7.5 8.384 14.116 15l.884-.884L8.384 7.5z" transform="translate(1.061 1.061)"></path>
+            </svg>
+        </div>
+        <div class="bob-popup-inner-content-div">
+            <h3>
+             Please Select Constitution
+            </h3>
+        
+            <div class="bob-cal-bbutton-div">
+                <div class="form-group bob-form-control bob-check-radio-form-control bob-radio-form-control">
+                    <input class="form-check-input" type="radio" id="radio11" value="1" name="radioCust" checked="checked" />
+                    <label class="form-check-label" for="radio11">Individual</label>
+                </div>
+                <div class="form-group bob-form-control bob-check-radio-form-control bob-radio-form-control">
+                    <input class="form-check-input" type="radio" id="radio12" value="2" name="radioCust" />
+                    <label class="form-check-label" for="radio12">Partnership </label>
+                </div>
+                <div class="form-group bob-form-control bob-check-radio-form-control bob-radio-form-control">
+                    <input class="form-check-input" type="radio" id="radio13" value="2" name="radioCust" />
+                    <label class="form-check-label" for="radio13">Public Limited Company</label>
+                </div>
+                <div class="form-group bob-form-control bob-check-radio-form-control bob-radio-form-control">
+                    <input class="form-check-input" type="radio" id="radio14" value="2" name="radioCust" />
+                    <label class="form-check-label" for="radio14">LLP</label>
+                </div>
+                <div class="form-group bob-form-control bob-check-radio-form-control bob-radio-form-control">
+                    <input class="form-check-input" type="radio" id="radio15" value="2" name="radioCust" />
+                    <label class="form-check-label" for="radio15">Sole Proprietorship</label>
+                </div>
+                <div class="form-group bob-form-control bob-check-radio-form-control bob-radio-form-control">
+                    <input class="form-check-input" type="radio" id="radio16" value="2" name="radioCust" />
+                    <label class="form-check-label" for="radio16">Private Limited Company</label>
+                </div>
+                <div class="form-group bob-form-control bob-check-radio-form-control bob-radio-form-control">
+                    <input class="form-check-input" type="radio" id="radio17" value="2" name="radioCust" />
+                    <label class="form-check-label" for="radio17">Trust / Club / Association</label>
+                </div>
+               
+            </div>
+        
+            
+            <div class="bob-e-auction-filter-btn-div">
+                <a class="bob-comman-btn" target="_blank" tabindex="-1" aria-label="Yes" role="link">
+                   Continue
+                </a>
+              
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="bob-popup-common-div external-popup-div">
+    <div class="bob-popup-content">
+        <div class="bob-closed-btn">
+            <svg xmlns="http://www.w3.org/2000/svg" width="17.121" height="17.121" viewbox="0 0 17.121 17.121">
+                <path fill="#fff" stroke="#fff" stroke-width="1.5px" d="M15 .884L14.116 0 7.5 6.616.884 0 0 .884 6.616 7.5 0 14.116.884 15 7.5 8.384 14.116 15l.884-.884L8.384 7.5z" transform="translate(1.061 1.061)"></path>
+            </svg>
+        </div>
+        <div class="bob-popup-inner-content-div">
+            <h3>
+                To proceed the following should be handy
+            </h3>
+            <ul>
+                <li>
+                    PAN Card
+                </li>
+                <li>
+                    Aadhar Card
+                </li>
+                <li>
+                    Operational Mobile number Registered with Aadhar No
+                </li>
+                <li>
+                    Valid E mail ID
+                </li>
+                <li>
+                    Internet, Camera/Webcam & Microphone enabled Mobile/Device
+                </li>
+                <li>
+                    Enable browser Location of the device used for Account opening.( Setting>> Type location in search
+                    setting>>Site setting>> Location>> Allow) and allow when prompted.
+                </li>
+                <li>
+                    This Account can be opened by Resident Indian Individuals ( having no political exposure) aged 18
+                    years and above.
+                </li>
+                <li>
+                    This facility is for customers who do not have account with Bank.
+                </li>
+                <li>
+                    You should be in a well-lit area with good network
+                </li>
+
+            </ul>
+            <h3>
+                Do you want to proceed ?
+            </h3>
+            <br />
+            <div class="bob-e-auction-filter-btn-div">
+                <a class="bob-comman-btn yes-btn-a" target="_blank" tabindex="-1" aria-label="Yes" role="link">
+                    Yes
+                </a>
+                <a href="https://bobcrm.bankofbaroda.co.in/retailliabilities" class="bob-comman-btn bob-comman-white-btn" tabindex="-1" aria-label="No" role="link">
+                    No
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="bob-popup-common-div know-more-div">
+    <div class="bob-popup-content">
+        <div class="bob-closed-btn">
+            <svg xmlns="http://www.w3.org/2000/svg" width="17.121" height="17.121" viewbox="0 0 17.121 17.121">
+                <path fill="#fff" stroke="#fff" stroke-width="1.5px" d="M15 .884L14.116 0 7.5 6.616.884 0 0 .884 6.616 7.5 0 14.116.884 15 7.5 8.384 14.116 15l.884-.884L8.384 7.5z" transform="translate(1.061 1.061)"></path>
+            </svg>
+        </div>
+        <div class="bob-popup-inner-content-div-new">
+            <h3 id="headingKnowMorePopup">
+                Pension Saarthi
+            </h3>
+            <p>You are being redirected to <span id="descKnowMorePopup">the Pension Saarthi web portal</span></p>
+            <h3>
+                Do you want to proceed ?
+            </h3>
+            <br />
+            <div class="bob-e-auction-filter-btn-div">
+                <a class="bob-comman-btn yes-btn-a" target="_blank" tabindex="-1" aria-label="Allow" role="link">
+                    Allow
+                </a>
+                <!--    <a href="https://bobcrm.bankofbaroda.co.in/retailliabilities" class="bob-comman-btn bob-comman-white-btn" target="_blank">
+                                No
+                            </a> -->
+            </div>
+        </div>
+    </div>
+</div>
+
+        </div>
+    </div>
+
+        </div>
+    </footer>
+    <!-- /#footer -->
+</div>
+<!-- /#wrapper -->
+
+    
+
+
+<div class="bob-chat-iframe" id="mainDiv">
+<iframe id="chatIframe" data-src="/chat/bob/countrywebsite/india/build/index.html"></iframe>
+</div> 
+<div class="add-to-home">
+<img src="/a2hs/BOB-Identifier-192x192.png" alt="" />
+<h2><a>Add this website to home screen</a></h2>
+<svg class="closed-home" focusable="false" viewbox="0 0 24 24" aria-hidden="true" fill="#162b75"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"></path></svg>
+</div>
+
+ <audio id="welcomeaudio">
+            <source src="/-/media/project/bob/countrywebsites/india/sound-clips/search-voice/tell-us-voice-2-wav-audio.mp3" type="audio/mpeg">
+            <source src="/-/media/project/bob/countrywebsites/india/sound-clips/search-voice/tell-us-voice-2-wav-audio.wav" type="audio/wav">
+        </audio>
+        <audio id="clickaudio">
+            <source src="/-/media/project/bob/countrywebsites/india/sound-clips/click/click-wav-audio.mp3" type="audio/mpeg">
+            <source src="/-/media/project/bob/countrywebsites/india/sound-clips/click/click-wav-audio.wav" type="audio/wav">
+        </audio>
+
+<div class="component rich-text col-12">
+        <div class="component-content">
+<div class="bob-overlay"></div>
+
+
+<div class="bob-popup-common-div insurance-popup-div">
+                <div class="bob-popup-content">
+                    <div class="bob-closed-btn">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="17.121" height="17.121" viewBox="0 0 17.121 17.121">
+                            <path fill="#fff" stroke="#fff" stroke-width="1.5px" d="M15 .884L14.116 0 7.5 6.616.884 0 0 .884 6.616 7.5 0 14.116.884 15 7.5 8.384 14.116 15l.884-.884L8.384 7.5z" transform="translate(1.061 1.061)"></path>
+                        </svg>
+                    </div>
+                   <div class="bob-popup-inner-content-div">
+                    <div class="stage1">
+                       <h3>
+                            Are you Bank of Baroda Customer?
+                        </h3>
+                        <div class="bob-e-auction-filter-btn-div">
+                            <a class="bob-comman-btn iyes-btn-a" target="_blank">
+                                Yes
+                            </a>
+                            <a class="bob-comman-btn bob-comman-white-btn ino-btn-a insurance-no-anchor" href="/apply-online">
+                                No
+                            </a>
+                        </div>
+                    </div>
+                    <div class="stage2">
+                        <p>
+                            This is to inform you that by clicking on continue, you will be leaving our website and entering the website/Microsite operated by <strong>Insurance tie up partner</strong>. This link is provided on our Bank’s website for customer convenience and Bank of Baroda does not own or control of this website, and is not responsible for its contents. The Website/Microsite is fully owned & Maintained by Insurance tie up partner.</p><br>
+                            <p>The use of any of the Insurance’s tie up partners website is subject to the terms of use and other terms and guidelines, if any, contained within tie up partners website. </p><br>
+                            <p><a class = "insurance-external-anchor bob-comman-btn" href="/" target="_blank">Proceed to the  website</a></p><br>
+                              <p>Thank you for visiting www.bankofbaroda.in   </p>
+                    </div>
+                   </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+<script>
+(function() {
+ var elements = document.querySelectorAll('img[data-src]');
+   
+ var index = 0;
+ var lazyLoad = function() { 
+ if(index >= elements.length) return;
+ var item = elements[index]; 
+ if((this.scrollY + this.innerHeight) > item.offsetTop) { 
+ var src = item.getAttribute("data-src");
+ item.src = src;
+ item.addEventListener('load', function() {
+ item.removeAttribute('data-src');     
+ });     
+ index++;
+ lazyLoad();
+ }
+ };
+ var init = function() {
+ window.addEventListener('scroll', lazyLoad);
+ lazyLoad();
+ };
+ return init();
+})();
+
+
+
+  if (typeof glblCurrentPageID != "undefined" && document.getElementById("whatsappchatanc") != null) {
+        var url = "https://wa.me/918433888777?text=Hi";
+
+        if (glblCurrentPageID == "2a2a4af8-e946-4e55-a4da-040502cc49c9" ||
+            glblCurrentPageID == "8b8b3479-dd0d-4efb-bc27-201fbd7fefd6" ||
+            glblCurrentPageID == "730af99a-d2dd-475b-86cd-7ce14725b1e0" ||
+            glblCurrentPageID == "d7ce7630-e51f-4184-ae56-13e3fa9349f4" ||
+            glblCurrentPageID == "b9c50d55-3692-4634-b1d2-8dedf94a62ca" ||
+            glblCurrentPageID == "2af9e183-338f-4112-8a95-3d4512186dd7" ||
+            glblCurrentPageID == "7e8fc1c6-9fd2-4288-b8b8-9ccc1969b090") {
+            url = "https://wa.me/7966734416?text=Hi";
+        }
+
+        document.getElementById("whatsappchatanc").href = url;
+    }
+
+
+</script>
+
+
+    <div class="privacy-warning acceptonclose" style="">
+            <div class='close'>
+
+                <a onclick="XA.cookies.createCookie(&#39;privacy-notification&#39;, 1, 365);XA.cookies.removeCookieWarning();">X</a>
+            </div>
+        <div class="info">
+            <!--- We use cookies (and similar tools) to enhance your experience on our website. To learn more on our cookie policy, please <a href="/cookie-policy">click here</a>. By continuing to browse this website, you consent to our use of cookies. --->
+We use cookies (and similar tools) to enhance your experience on our website. To learn more on our cookie policy, Privacy Policy and Terms & Conditions please <a href="/cookie-policy">click here</a>. By continuing to browse this website, you consent to our use of cookies and agree to the Privacy Policy and Terms & Conditions.
+
+        </div>
+        <div class="submit">
+
+            <a onclick="XA.cookies.createCookie(&#39;privacy-notification&#39;, 1, 365);XA.cookies.removeCookieWarning();"></a>
+        </div>
+    </div>
+
+
+
+
+
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5CJN554');</script>
+<!-- End Google Tag Manager -->
+
+
+<script src="/-/media/themes/bob/india/india/start-up-banking/scripts/jquery-360-min-v1.js"></script><script src="/-/media/themes/bob/india/india/start-up-banking/scripts/common-functions-v-87.js"></script><script src="/-/media/themes/bob/india/india/start-up-banking/scripts/form-coding-v3.js"></script><script src="/-/media/themes/bob/india/india/start-up-banking/scripts/language-switcher-v1.js"></script><script src="/-/media/themes/bob/india/india/start-up-banking/scripts/bootstrap-min-v1.js"></script><script src="/-/media/themes/bob/india/india/start-up-banking/scripts/slick-min-v1.js"></script><script src="/-/media/themes/bob/india/india/start-up-banking/scripts/jquery-mCustomScrollbar-min-v1.js"></script><script src="/-/media/themes/bob/india/india/start-up-banking/scripts/custom-v15.js"></script>
+
+
+<div class="popup-yes-no-div">
+<svg class="closed" focusable="false" viewBox="0 0 24 24" aria-hidden="true" fill="#fff"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"></path></svg>
+<div class="popup-content-div update-content">
+<p> </p>
+<div class="btn-div-popup">
+<a href="javascript:void(0);" target="_blank" class="yes-btn orange-solid-btn">
+Yes
+</a>
+<a href="javascript:void(0);" class="no-btn blue-solid-btn">
+No
+</a>
+</div>
+</div>
+<div class="popup-content-div cloud-popup">
+<p>
+<strong>
+AWS :
+</strong>
+<a href="https://aws.amazon.com/activate/founders/" target="_blank">
+https://aws.amazon.com/activate/founders/
+</a>
+</p>
+<p>
+<strong>
+MICROSOFT :
+</strong>
+<a href=" https://azure.microsoft.com/en-us/free/" target="_blank">
+https://azure.microsoft.com/en-us/free/
+</a>
+</p>
+<p>
+<strong>
+IBM :
+</strong>
+<a href="https://developer.ibm.com/startups/" target="_blank">
+https://developer.ibm.com/startups/
+</a>
+</p>
+</div>
+</div>
+
+
+
+<div class="popup-video-div" id="video-popup">
+<svg class="closed" focusable="false" viewBox="0 0 24 24" aria-hidden="true" fill="#fff"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"></path></svg>
+<div class="popup-content-div">
+<iframe width="100%" height="100%" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
+</div>
+
+<script src="/js/bob/countrywebsites/india/stateCityBranchesApplyOnline.js" defer></script>    <!-- /#wrapper -->
+</body>
+</html>
