@@ -12,15 +12,28 @@ By solving this problem statement, we address key challenges faced by businesses
 - **Multi-Channel Integration**
 - **Real-World Impact**
 
+
+##Architecture
+![Architecture](assets/Picture8.png)
+
+
+
+
+
+
+
+##LLM Architecture
+
 ## What are the alternatives/competitive products for the problem you are solving?
 
 Several alternatives and competitive products exist in the market to enhance customer service using AI and other technologies. These solutions vary in their approach, features, and integration capabilities. Here are some notable alternatives:
 
-- **Zendesk**: A customer service platform that provides various tools for customer support, including AI-powered bots.
-- **Salesforce Service Cloud**: Offers a comprehensive customer service solution with AI-driven insights and automation.
-- **Freshdesk**: A customer support software with AI capabilities to improve response times and automate routine tasks.
-- **IBM Watson Assistant**: A conversational AI platform that helps build intelligent virtual assistants for various applications.
-- **Google Dialogflow**: A natural language understanding platform used to design and integrate a conversational user interface.
+| Product                    | Description                                                                                              | Features                                                                 |
+|----------------------------|----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
+| Zendesk                    | A customer service platform that provides various tools for customer support, including AI-powered bots. | Multi-channel support, automation, analytics                             |
+| Salesforce Service Cloud   | Offers a comprehensive customer service solution with AI-driven insights and automation.                 | Case management, AI insights, workflow automation                        |
+| Freshdesk                  | Customer support software with AI capabilities to improve response times and automate routine tasks.     | Omnichannel support, AI chatbots, ticketing system                       |
+| IBM Watson Assistant       | A conversational AI platform that helps build intelligent virtual assistants for various applications.   | Natural language processing, multi-channel support, integration options  |
 
 ## Azure tools or resources which are likely to be used by you for the prototype, if your idea gets selected.
 
@@ -34,6 +47,10 @@ Here are some key Azure services and tools that could be used:
 - **Azure DevOps**: Provides a set of development tools and services for planning, collaborating on, and delivering applications.
 - **Azure Active Directory (Azure AD)**: Provides identity and access management services for securing access to applications and resources in the cloud.
 - **Azure Monitor**: Provides comprehensive monitoring of applications and infrastructure across Azure and on-premises environments.
+
+##UI - Design
+
+
 
 ## Approach
 
