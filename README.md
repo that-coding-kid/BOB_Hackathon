@@ -53,14 +53,15 @@ Here are some key Azure services and tools that could be used:
 ### Mobile App
 #### Landing
 <div style = "display: flex; direction: "horizontal;">
-<img src = "assets/Picture1.png" width = "200">
-<img src = "assets/Picture2.png" width = "200">
-<img src = "assets/Picture3.png" width = "200">
+<img src = "assets/Picture1.png" width = "300">
+<img src = "assets/Picture2.png" width = "300">
+<img src = "assets/Picture3.png" width = "300">
 </div>
 #### Other Responses
-<img src = "assets/Picture4.png" width = "200">
-<img src = "assets/Picture5.png" width = "200">
-
+<div style = "display: flex; direction: "horizontal;">
+<img src = "assets/Picture4.png" width = "300">
+<img src = "assets/Picture5.png" width = "300">
+</div>
 #### Web UI
 ![Web](assets/Picture6.jpg)
 
